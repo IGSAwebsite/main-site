@@ -276,6 +276,15 @@ img.img-circle.team-img {
 
 /* Services Section */
 #tf-services{
+	background: url(../img/03.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
+#tf-services{
 	padding: 80px 0;
 }
 
