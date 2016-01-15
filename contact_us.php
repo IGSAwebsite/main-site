@@ -41,11 +41,11 @@ require_once "vendor/autoload.php";
  $to = array('aloks1990@gmail.com'=>'Alok Satpathy');
 
  // Login credentials
- $username = '5504797a050a910f3';
- $password = '530c098a13bbaf';
+ $username = 'itigsa@gmail.com';
+ $password = 'igsa@tamu2014';
 
  // Setup Swift mailer parameters
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 25);
+ $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465);
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
