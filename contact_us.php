@@ -65,6 +65,6 @@ require_once "vendor/autoload.php";
      print_r($failures);
  }
 
- header('/');
+ header('location:/');
 
  ?>
