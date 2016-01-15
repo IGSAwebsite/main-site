@@ -14,15 +14,14 @@ echo $name.$emailid.$subject.$message;
 //
 // mail($to, $subject, $message, $headers);
 
-$to      = 'aloks1990@gmail.com';
-$subject = "My subject";
-$txt = "<html><p>Hello world!</p></html>";
-// Always set content-type when sending HTML email
-$headers = "MIME-Version: 1.0"."\r\n";
-$headers .= "Content-type:text/html;charset=UTF-8"."\r\n";
-$headers .= "From: aloks1990@gmail.com"."\r\n"."CC: aditya.p1993@hotmail.com";
+// The message
+$message = "Line 1\r\nLine 2\r\nLine 3";
 
-mail($to,$subject,$txt,$headers);
+// In case any of our lines are larger than 70 characters, we should use wordwrap()
+$message = wordwrap($message, 70, "\r\n");
+
+// Send
+mail('aloks1990@gmail.com', 'My Subject', $message);
 
 echo "Email sent and here the email:".$message;
 
