@@ -1,6 +1,6 @@
 <?php
 
-$subject = "Message received on Website - ";
+$subject = "Message received on IGSA Website - ";
 
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -21,12 +21,12 @@ require_once "vendor/autoload.php";
 
  //$text = "Hi!\n".$message."\n";
 
- $text = "Message from ".$name." <".$email.">\n\n".$message."\n";
+ $text = "Message from ".$name." ".$email."\n\n".$message."\n";
  $html = "<html>
             <head></head>
             <body>
                 <p>
-                     Message from ".$name." <".$email.">
+                     Message from ".$name." ".$email."
                 </p>
                 <p>
                      ".$message."
