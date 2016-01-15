@@ -18,18 +18,26 @@ require_once "vendor/autoload.php";
   * If the reciever is able to view html emails then only the html
   * email will be displayed
   */
- $text = "Message from ".$name." <".$email.">\n\n".$message."\n";
+ $text="Hi";
  $html = "<html>
-       <head></head>
-       <body>
-           <p>
-                Message from ".$name." <".$email.">
-           </p>
-           <p>
-                ".$message."
-           </p>
-       </body>
-       </html>";
+ <body>
+ <p>
+    Hi
+ </p>
+ </body>
+ </html>";
+ // $text = "Message from ".$name." <".$email.">\n\n".$message."\n";
+ // $html = "<html>
+ //       <head></head>
+ //       <body>
+ //           <p>
+ //                Message from ".$name." <".$email.">
+ //           </p>
+ //           <p>
+ //                ".$message."
+ //           </p>
+ //       </body>
+ //       </html>";
  // This is your From email address
  $from = array($email => $name);
  // Email recipients
