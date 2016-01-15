@@ -45,7 +45,7 @@ require_once "vendor/autoload.php";
  $password = 'igsa@tamu2014';
 
  // Setup Swift mailer parameters
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465);
+ $transport = Swift_SmtpTransport::newInstance('aspmx.l.google.com', 25);
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
