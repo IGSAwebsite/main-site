@@ -1,8 +1,10 @@
 <?php
 
+$subject = "Message received on Website -"
+
 $name = $_POST['name'];
 $email = $_POST['email'];
-$subject = $_POST['subject'];
+$subject .= $_POST['subject'];
 $message = $_POST['message'];
 
 //echo $name.$emailid.$subject.$message;
@@ -16,12 +18,15 @@ require_once "vendor/autoload.php";
   * If the reciever is able to view html emails then only the html
   * email will be displayed
   */
- $text = "Hi!\n".$message."\n";
+ $text = "Message from ".$name." <".$email.">\n\n".$message."\n";
  $html = "<html>
        <head></head>
        <body>
-           <p>Hi!<br>
-               ".$message."<br/>
+           <p>
+                Message from ".$name." <".$email.">
+           </p>
+           <p>
+                ".$message."
            </p>
        </body>
        </html>";
