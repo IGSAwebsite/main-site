@@ -1,7 +1,7 @@
 <?php
 
 $name = $_POST['name'];
-$emailid = $_POST['emailid'];
+$email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
@@ -26,7 +26,7 @@ require_once "vendor/autoload.php";
        </body>
        </html>";
  // This is your From email address
- $from = array($emailid => $name);
+ $from = array($email => $name);
  // Email recipients
  $to = array('aloks1990@gmail.com'=>'Alok Satpathy');
 
