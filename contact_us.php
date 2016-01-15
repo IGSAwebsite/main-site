@@ -5,7 +5,7 @@ $emailid = $_POST['emailid'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-echo $name.$emailid.$subject.$message;
+//echo $name.$emailid.$subject.$message;
 
 require_once "vendor/autoload.php";
 
@@ -28,10 +28,7 @@ require_once "vendor/autoload.php";
  // This is your From email address
  $from = array($emailid => $name);
  // Email recipients
- $to = array(
-       'aditya.p1993@hotmail.com'=>'Aditya Purandare',
-       'aloks1990@gmail.com'=>'Alok Satpathy'
- );
+ $to = array('aloks1990@gmail.com'=>'Alok Satpathy');
 
  // Login credentials
  $username = '5504797a050a910f3';
@@ -56,15 +53,15 @@ require_once "vendor/autoload.php";
  if ($recipients = $swift->send($message, $failures))
  {
      // This will let us know how many users received this message
-     echo 'Message sent out to '.$recipients.' users';
+     //echo 'Message sent out to '.$recipients.' users';
  }
  // something went wrong =(
  else
  {
-     echo "Something went wrong - ";
-     print_r($failures);
+     //echo "Something went wrong - ";
+     //print_r($failures);
  }
 
- header('location:/');
+ //header('location:/');
 
  ?>
