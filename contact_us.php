@@ -7,7 +7,7 @@ $message = $_POST['message'];
 
 echo $name.$emailid.$subject.$message;
 
- include_once "vendor/autoload.php";
+require_once "vendor/autoload.php";
 
  /*
   * Create the body of the message (a plain-text and an HTML version).
@@ -16,24 +16,22 @@ echo $name.$emailid.$subject.$message;
   * If the reciever is able to view html emails then only the html
   * email will be displayed
   */
- $text = "Hi!\nHow are you?\n";
+ $text = "Hi!\n".$message."\n";
  $html = "<html>
        <head></head>
        <body>
            <p>Hi!<br>
-               How are you?<br>
+               ".$message."<br/>
            </p>
        </body>
        </html>";
  // This is your From email address
- $from = array('aloks1990@gmail.com' => 'Alok Satpathy');
+ $from = array($emailid => $name);
  // Email recipients
  $to = array(
        'aditya.p1993@hotmail.com'=>'Aditya Purandare',
        'aloks1990@gmail.com'=>'Alok Satpathy'
  );
- // Email subject
- $subject = 'Example PHP Email';
 
  // Login credentials
  $username = '5504797a050a910f3';
@@ -66,5 +64,7 @@ echo $name.$emailid.$subject.$message;
      echo "Something went wrong - ";
      print_r($failures);
  }
+
+ header('/');
 
  ?>
