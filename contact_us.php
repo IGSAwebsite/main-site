@@ -6,23 +6,64 @@ $subject = $_POST['subject'];
 $message = $_POST['message'];
 
 echo $name.$emailid.$subject.$message;
-//
-// $to      = 'aloks1990@gmail.com';
-// $subject = $subject;
-// $message = "Hello from ".$name." <".$emailid.">".$message;
-// $headers = 'From: aloks1990@gmail.com'."\r\n".'Reply-To: aloks1990@gmail.com'."\r\n".'X-Mailer: PHP/'.phpversion();
-//
-// mail($to, $subject, $message, $headers);
 
-// The message
-$message = "Line 1\r\nLine 2\r\nLine 3";
+ include_once "vendor/autoload.php";
+ /*
+  * Create the body of the message (a plain-text and an HTML version).
+  * $text is your plain-text email
+  * $html is your html version of the email
+  * If the reciever is able to view html emails then only the html
+  * email will be displayed
+  */
+ $text = "Hi!\nHow are you?\n";
+ $html = "<html>
+       <head></head>
+       <body>
+           <p>Hi!<br>
+               How are you?<br>
+           </p>
+       </body>
+       </html>";
+ // This is your From email address
+ $from = array('aloks1990@gmail.com' => 'Alok Satpathy');
+ // Email recipients
+ $to = array(
+       'aditya.p1993@hotmail.com'=>'Aditya Purandare',
+       'aloks1990@gmail.com'=>'Alok Satpathy'
+ );
+ // Email subject
+ $subject = 'Example PHP Email';
 
-// In case any of our lines are larger than 70 characters, we should use wordwrap()
-$message = wordwrap($message, 70, "\r\n");
+ // Login credentials
+ $username = '5504797a050a910f3';
+ $password = '530c098a13bbaf';
 
-// Send
-mail('aditya.p1993@hotmail.com', 'My Subject', $message);
+ // Setup Swift mailer parameters
+ $transport = Swift_SmtpTransport::newInstance('mailtrap.io', 2525);
+ $transport->setUsername($username);
+ $transport->setPassword($password);
+ $swift = Swift_Mailer::newInstance($transport);
 
-echo "Email sent and here the email:".$message;
+ // Create a message (subject)
+ $message = new Swift_Message($subject);
 
-?>
+ // attach the body of the email
+ $message->setFrom($from);
+ $message->setBody($html, 'text/html');
+ $message->setTo($to);
+ $message->addPart($text, 'text/plain');
+
+ // send message
+ if ($recipients = $swift->send($message, $failures))
+ {
+     // This will let us know how many users received this message
+     echo 'Message sent out to '.$recipients.' users';
+ }
+ // something went wrong =(
+ else
+ {
+     echo "Something went wrong - ";
+     print_r($failures);
+ }
+
+ ?>
