@@ -4,7 +4,7 @@ $subject = "Message received on Website -"
 
 $name = $_POST['name'];
 $email = $_POST['email'];
-$subject .= $_POST['subject'];
+//$subject .= $_POST['subject'];
 $message = $_POST['message'];
 
 //echo $name.$emailid.$subject.$message;
