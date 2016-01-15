@@ -8,6 +8,7 @@ $message = $_POST['message'];
 echo $name.$emailid.$subject.$message;
 
  include_once "vendor/autoload.php";
+
  /*
   * Create the body of the message (a plain-text and an HTML version).
   * $text is your plain-text email
