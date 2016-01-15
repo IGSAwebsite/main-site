@@ -34,7 +34,7 @@
                   authKeyStr = '&authkey=' + settings.authkey;
                 }
 
-				var albumJsonUrl = '<script src="http://picasaweb.google.com/data/feed/base/user/' + settings.userid + '/albumid/' + settings.albumid 
+				var albumJsonUrl = '<script src="https://picasaweb.google.com/data/feed/base/user/' + settings.userid + '/albumid/' + settings.albumid 
 					+ '?alt=json&kind=photo&max-results=' + settings.maxresults + '&hl=en_US&imgmax=' + settings.imgmax
 					+ authKeyStr
 					+ '&callback=jQuery.fn.googleslides.prepare_' + settings.albumid + '&fields=link,entry(link,media:group(media:content,media:description))">'
