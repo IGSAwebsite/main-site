@@ -18,10 +18,10 @@ require_once "vendor/autoload.php";
   * email will be displayed
   */
 
- $text = "Hi!\n".$message."\n";
+ //$text = "Hi!\n".$message."\n";
 
- //$text = "Message from ".$name." <".$email.">\n\n".$message."\n";
- // $html = "<html>
+ $text = "Message from ".$name." <".$email.">\n\n".$message."\n";
+ $html = "<html>
  //           <head></head>
  //           <body>
  //               <p>
@@ -32,14 +32,14 @@ require_once "vendor/autoload.php";
  //               </p>
  //           </body>
  //           </html>";
- $html = "<html>
-       <head></head>
-        <body>
-            <p>Hi!<br>
-                ".$message."<br/>
-            </p>
-        </body>
-        </html>";
+ // $html = "<html>
+ //       <head></head>
+ //        <body>
+ //            <p>Hi!<br>
+ //                ".$message."<br/>
+ //            </p>
+ //        </body>
+ //        </html>";
 
  // This is your From email address
  $from = array($email => $name);
