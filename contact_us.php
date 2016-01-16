@@ -2,13 +2,11 @@
 
 $subject = "Message received on IGSA Website - ";
 
-// $name = $_POST['name'];
-// $email = $_POST['email'];
-// $subject .= $_POST['subject'];
-// $message = $_POST['message'];
-$name="Aditya";
-$email="audi@rakspace.com";
-$message="Hey there";
+$name = $_POST['name'];
+$email = $_POST['email'];
+$subject .= $_POST['subject'];
+$message = $_POST['message'];
+
 
 echo $name.$emailid.$subject.$message;
 
