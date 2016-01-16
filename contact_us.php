@@ -45,7 +45,7 @@ require_once "vendor/autoload.php";
  $password = 'igsa@tamu2014';
 
  // Setup Swift mailer parameters
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 587, 'tls');
+ $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
@@ -63,13 +63,13 @@ require_once "vendor/autoload.php";
  if ($recipients = $swift->send($message, $failures))
  {
      // This will let us know how many users received this message
-     //echo 'Message sent out to '.$recipients.' users';
+     echo 'Message sent out to '.$recipients.' users';
  }
  // something went wrong =(
  else
  {
-     //echo "Something went wrong - ";
-     //print_r($failures);
+     echo "Something went wrong - ";
+     print_r($failures);
  }
 
  //header('location:/');
