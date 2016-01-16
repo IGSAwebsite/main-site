@@ -39,7 +39,7 @@ require_once "vendor/autoload.php";
  // This is your From email address
  $from = array($email => $name);
  // Email recipients
- $to = array('itigsa@outlook.com'=>$name, 'itigsa@gmail.com' => $name);
+ $to = array('itigsa@outlook.com' => $name, 'itigsa@gmail.com' => $name);
 
  // // Login credentials
  // $username = 'itigsa@gmail.com';
