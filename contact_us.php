@@ -7,7 +7,7 @@ $email = $_POST['email'];
 $subject .= $_POST['subject'];
 $message = $_POST['message'];
 
-//echo $name.$emailid.$subject.$message;
+echo $name.$emailid.$subject.$message;
 
 require_once "vendor/autoload.php";
 
