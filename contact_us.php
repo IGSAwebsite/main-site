@@ -45,7 +45,7 @@ require_once "vendor/autoload.php";
  $password = 'igsa@tamu2015';
 
  // Setup Swift mailer parameters
- $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25);
+ $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25, 'tls');
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
