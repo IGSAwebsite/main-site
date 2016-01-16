@@ -2,10 +2,13 @@
 
 $subject = "Message received on IGSA Website - ";
 
-$name = $_POST['name'];
-$email = $_POST['email'];
-$subject .= $_POST['subject'];
-$message = $_POST['message'];
+// $name = $_POST['name'];
+// $email = $_POST['email'];
+// $subject .= $_POST['subject'];
+// $message = $_POST['message'];
+$name="Aditya";
+$email="audi@rakspace.com";
+$message="Hey there";
 
 echo $name.$emailid.$subject.$message;
 
@@ -40,12 +43,14 @@ require_once "vendor/autoload.php";
  // Email recipients
  $to = array('itigsa@gmail.com'=>'IT IGSA Team');
 
- // Login credentials
- $username = 'itigsa@gmail.com';
- $password = 'igsa@tamu2014';
+ // // Login credentials
+ // $username = 'itigsa@gmail.com';
+ // $password = 'igsa@tamu2014';
+ //
+ // // Setup Swift mailer parameters
+ // $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
 
- // Setup Swift mailer parameters
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
+
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
