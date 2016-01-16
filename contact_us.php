@@ -52,7 +52,7 @@ require_once "vendor/autoload.php";
  $username="5504797a050a910f3";
  $password="530c098a13bbaf";
 
- $transport = Swift_SmtpTransport::newInstance('mailtrap.io', 25);
+ $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25, 'ssl');
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
