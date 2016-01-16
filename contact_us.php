@@ -49,8 +49,10 @@ require_once "vendor/autoload.php";
  //
  // // Setup Swift mailer parameters
  // $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
+ $username="5504797a050a910f3";
+ $password="530c098a13bbaf";
 
+ $transport = Swift_SmtpTransport::newInstance('mailtrap.io', 465, 'ssl');
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
