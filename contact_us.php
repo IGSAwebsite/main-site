@@ -52,7 +52,7 @@ require_once "vendor/autoload.php";
  $username="itigsa@outlook.com";
  $password="igsa@tamu2015";
 
- $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25, 'ssl');
+ $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25, 'tls');
  $transport->setUsername($username);
  $transport->setPassword($password);
  $swift = Swift_Mailer::newInstance($transport);
