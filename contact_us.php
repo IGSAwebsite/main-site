@@ -22,12 +22,12 @@ require_once "vendor/autoload.php";
 
  //$text = "Hi!\n".$message."\n";
 
- $text = "Message from ".$name." ".$email."\n\n".$message."\n";
+ $text = "Message from ".$name." (".$email.")\n\n".$message."\n";
  $html = "<html>
             <head></head>
             <body>
                 <p>
-                     Message from ".$name." ".$email."
+                     Message from ".$name." (".$email.")
                 </p>
                 <p>
                      ".$message."
@@ -39,7 +39,7 @@ require_once "vendor/autoload.php";
  // This is your From email address
  $from = array($email => $name);
  // Email recipients
- $to = array('itigsa@outlook.com'=>'IT IGSA Team');
+ $to = array('itigsa@outlook.com'=>'IT IGSA Team', 'itigsa@gmail.com' => 'IGSA Gmail');
 
  // // Login credentials
  // $username = 'itigsa@gmail.com';
