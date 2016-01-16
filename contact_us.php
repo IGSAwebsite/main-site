@@ -49,7 +49,7 @@ require_once "vendor/autoload.php";
  //
  // // Setup Swift mailer parameters
  // $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
-
+ $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
 
  $transport->setUsername($username);
  $transport->setPassword($password);
