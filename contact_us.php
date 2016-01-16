@@ -41,7 +41,7 @@ require_once "vendor/autoload.php";
  // This is your From email address
  $from = array($email => $name);
  // Email recipients
- $to = array('itigsa@gmail.com'=>'IT IGSA Team');
+ $to = array('itigsa@outlook.com'=>'IT IGSA Team');
 
  // // Login credentials
  // $username = 'itigsa@gmail.com';
@@ -49,8 +49,8 @@ require_once "vendor/autoload.php";
  //
  // // Setup Swift mailer parameters
  // $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
- $username="5504797a050a910f3";
- $password="530c098a13bbaf";
+ $username="itigsa@outlook.com";
+ $password="igsa@tamu2015";
 
  $transport = Swift_SmtpTransport::newInstance('smtp-mail.outlook.com', 25, 'ssl');
  $transport->setUsername($username);
