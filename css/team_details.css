@@ -65,7 +65,7 @@ ul.polaroids a {
 
 ul.polaroids img {
 	display: block; 
-	width: 190px; 
+	width: 170px; 
 	margin-bottom: 12px; 
 }
 
@@ -156,5 +156,5 @@ ol.code code {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #ffffff;
-	height:1500px;
+	height:2500px;
 }
