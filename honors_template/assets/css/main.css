@@ -2050,11 +2050,15 @@
 		}
 
 		.flex.flex-2 .col {
-			width: 48%;
+			width: 15%;
+		}
+		
+		.flex.flex-f .col {
+			width: 21%;
 		}
 
 		.flex.flex-3 .col {
-			width: 31%;
+			width: 21%;
 		}
 
 		.flex.flex-4 .col {
@@ -3638,7 +3642,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/T&M.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
