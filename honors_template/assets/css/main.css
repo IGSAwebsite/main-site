@@ -2102,7 +2102,7 @@
 
 		@media screen and (max-width: 736px) {
 
-			.flex.flex-2 .col, .flex.flex-3 .col, .flex.flex-4 .col {
+			.flex.flex-2 .col,.flex.flex-f .col, .flex.flex-3 .col, .flex.flex-4 .col {
 				width: 100%;
 			}
 
