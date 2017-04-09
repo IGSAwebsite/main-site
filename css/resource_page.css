@@ -1,8 +1,9 @@
 /*------Body-----*/
 .wrap{
   padding: 60px 0px;
-  background: #ff9933;
-  background: radial-gradient(at 40% 30%, #ff9933, #754e26);
+  background: url(../img/06.jpg);
+  /*background: #ff9933;
+  background: radial-gradient(at 40% 30%, #ff9933, #754e26);*/
 }
 
 h2 {
