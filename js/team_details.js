@@ -20,7 +20,7 @@ var team_details = {
 		teamMember3:{
 			name : 'Akshat Verma',
 			position :'Director',
-			picture_path: 'img/team_images/IT/Akshat Verma-Director-IT.jpg'
+			picture_path: 'img/team_images/IT/Akshat Verma-Director-IT.JPG'
 		},
 		teamMember4:{
 			name : 'Himanshu Taneja',
@@ -73,7 +73,7 @@ var team_details = {
 		teamMember3:{
 			name : 'Anmol',
 			position :'Director',
-			picture_path: 'img/team_images/Editorial/Anmol-editorial-director.jpg'
+			picture_path: 'img/team_images/Editorial/Anmol-editorial-director.JPG'
 		},
 		teamMember4:{
 			name : 'Achla',
@@ -170,7 +170,7 @@ var team_details = {
 		teamMember1:{
 			name : 'Ronak Mohanty',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_Vp_Mentoring.jpg'
+			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
 		},
 		teamMember2:{
 			name : 'Abhishek Nayak',
