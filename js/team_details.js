@@ -263,7 +263,7 @@ var team_details = {
 		}
 	}*/,
 	pr: {
-		team_count : 5,
+		team_count : 6,
 		team_name : 'Public Relations',
 		teamMember1:{
 			name : 'Hemik Parikh',
@@ -289,6 +289,11 @@ var team_details = {
 			name : 'Santosh Praveen Karri',
 			position :'Director',
 			picture_path: 'img/team_images/PR/Santosh Praveen Karri - Director - PR.jpg'
+		},
+		teamMember6:{
+			name : 'Arushi Patro',
+			position :'Director',
+			picture_path: 'img/team_images/PR/Arushi Patro-Director-Public Relations.JPG'
 		}
 	},
 	advisory: {
