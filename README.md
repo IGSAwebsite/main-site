@@ -8,5 +8,8 @@ Built on Twitter's Bootstrap framework & jQuery for animations, styling in CSS3 
 
 ## Contributions
 Alok
-Yeshwanth
-Aditya
+Naman
+Akshat
+Shubham
+Himanshu
+Arnav
