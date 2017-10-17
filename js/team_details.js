@@ -165,7 +165,7 @@ var team_details = {
 		}
 	},
 	mentoring: {
-		team_count : 2,
+		team_count : 3,
 		team_name : 'Mentoring',
 		teamMember1:{
 			name : 'Ronak Mohanty',
@@ -176,10 +176,15 @@ var team_details = {
 			name : 'Abhishek Nayak',
 			position :'Director',
 			picture_path: 'img/team_images/Mentoring/Abhishek Nayak_Mentoring_Director.jpg'
+		},
+		teamMember3:{
+			name : 'Nimish Ojale',
+			position :'Director',
+			picture_path: 'img/team_images/Mentoring/Nimish Ojale_Mentoring_Director.jpg'
 		}
 	},
 	marketing: {
-		team_count : 8,
+		team_count : 7,
 		team_name : 'Marketing',
 		teamMember1:{
 			name : 'Talib Ahmad',
@@ -197,26 +202,21 @@ var team_details = {
 			picture_path: 'img/team_images/Old Pictures/marketing_monisha_8.jpg'
 		},	
 		teamMember4:{
-			name : 'Nimish Ojale',
-			position :'Director',
-			picture_path: 'img/team_images/Marketing/Nimish Ojale_Mentoring_Director.jpg'
-		},
-		teamMember5:{
 			name : 'Paras Sharma',
 			position :'Senior Director',
 			picture_path: 'img/team_images/Marketing/Paras Sharma- Director - Marketing.PNG'
 		},
-		teamMember6:{
+		teamMember5:{
 			name : 'Saksham Gupta',
 			position :'Director',
 			picture_path: 'img/team_images/Marketing/Saksham Gupta - Marketing - Director.jpg'
 		},
-		teamMember7:{
+		teamMember6:{
 			name : 'Siddarth Biyani',
 			position :'Director',
 			picture_path: 'img/team_images/Marketing/Siddarth Biyani-Marketing-Director.jpg'
 		},	
-		teamMember8:{
+		teamMember7:{
 			name : 'Sourav Sudhir',
 			position :'Director',
 			picture_path: 'img/team_images/Marketing/Sourav Sudhir-Marketing-Director.jpg'
