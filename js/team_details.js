@@ -30,7 +30,7 @@ var team_details = {
 		teamMember5:{
 			name : 'Arnav Kundu',
 			position :'Director',
-			picture_path: 'img/team_images/Arnav.jpg'
+			picture_path: 'img/team_images/IT/Arnav.jpg'
 		}
 	},	
 	advocacy: {
