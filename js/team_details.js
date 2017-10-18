@@ -28,9 +28,9 @@ var team_details = {
 			picture_path: 'img/team_images/IT/HimanshuTaneja-Director-IT.jpg'
 		},	
 		teamMember5:{
-			name : 'Arnav',
+			name : 'Arnav Kundu',
 			position :'Director',
-			picture_path: 'img/team_images/it_naman_5.jpg'
+			picture_path: 'img/team_images/Arnav.jpg'
 		}
 	},	
 	advocacy: {
