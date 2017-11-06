@@ -308,7 +308,7 @@ var team_details = {
 		}
 	},
 	pr: {
-		team_count : 6,
+		team_count : 7,
 		team_name : 'Public Relations',
 		teamMember1:{
 			name : 'Hemik Parikh',
@@ -339,6 +339,11 @@ var team_details = {
 			name : 'Arushi Patro',
 			position :'Director',
 			picture_path: 'img/team_images/PR/Arushi_Patro-Director-Public_Relations.png'
+		},
+		teamMember7:{
+			name : 'Mahesh Naidu',
+			position :'Director',
+			picture_path: 'img/team_images/PR/mahesh.JPG'
 		}
 	},
 	advisory: {
