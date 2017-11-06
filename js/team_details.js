@@ -142,7 +142,7 @@ var team_details = {
 		teamMember8:{
 			name : 'Rohit Kanekal',
 			position :'Director',
-			picture_path: 'img/team_images/Events/Rohit Kanekal - Director - Events.jpeg'
+			picture_path: 'img/team_images/Events/Rohit_Kanekal_-_Director_-_Events.png'
 		},
 		teamMember9:{
 			name : 'Sai Swaroop',
