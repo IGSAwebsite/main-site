@@ -343,7 +343,7 @@ var team_details = {
 		teamMember7:{
 			name : 'Mahesh Naidu',
 			position :'Director',
-			picture_path: 'img/team_images/PR/mahesh.JPG'
+			picture_path: 'img/team_images/PR/mahesh.png'
 		}
 	},
 	advisory: {
