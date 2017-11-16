@@ -64,7 +64,25 @@
   <!--<script src="http://code.jquery.com/jquery-1.9.0.js"></script>-->
   <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
   <script src=" https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
- 
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style><link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+.all-center{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+</style>
   <!--start jquery.googleslides-->
   <!-- Enter Picasa ID here -->
   <link href="css/jquery.googleslides.css" rel="stylesheet" type="text/css" />
@@ -490,7 +508,7 @@
 
   <div id="tf-works">
     <div class="overlay">
-      <div class="container">
+      <div class="container all-center">
         <!-- Container -->
         <div class="section-title text-center center">
           <h2>Take a look at
@@ -504,115 +522,20 @@
                         <em>Exclusive media coverage of all events under the IGSA Banner.</em>
                     </small>
         </div>
-
-
         <div class="space"></div>
+        <div class="w3-container" style="max-width:800px">
+  <div class="w3-bar w3-black">
+    <button class="w3-bar-item w3-button tablink w3-red" onclick="openCity(event,'PR')">PR and Networking</button>
+    <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Festivals')">Festivals</button>
+    <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Parties')">Parties</button>
+  </div>
+    <div class="w3-content w3-display-container" id="img-div" style="max-width:800px;max-height:450px">
 
-        <div class="categories">
-
-          <ul class="cat">
-            <li class="pull-left">
-              <h4>Filter by Type:</h4>
-            </li>
-            <li class="pull-right">
-              <ol class="type">
-                <li><a href="#" data-filter="*" class="active">All</a></li>
-                <li><a href="#" data-filter=".festivals">Festivals</a></li>
-                <li><a href="#" data-filter=".orientation">Orientation Sessions</a></li>
-				<li><a href="#" data-filter=".networking">PR & Networking</a></li>
-                <li><a href="#" data-filter=".parties">Parties</a></li>
-              </ol>
-            </li>
-          </ul>
-          <div class="clearfix"></div>
-        </div>
-
-        <div id="lightbox" class="row">
-
-          <div class="col-sm-6 col-md-3 col-lg-3 festivals">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo1"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 orientation">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo2">
-
-                  </div>
-
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 networking">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo3"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 festivals">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo4"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 networking">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo5"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 festivals">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo6"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 networking">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo7"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-sm-6 col-md-3 col-lg-3 parties">
-            <div class="portfolio-item">
-              <div class="hover-bg">
-                <a href="#">
-                  <div id="demo8"></div>
-                </a>
-              </div>
-            </div>
-          </div>
-
-        </div>
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+</div>
+        <script src="js/images.js "></script>
 
         <!-- -->
       </div>
