@@ -1,7 +1,8 @@
-var images={"PR":["PR_1.jpg","PR_2.jpg","PR_3.jpg","PR_4.jpg","PR_5.jpg","PR_6.jpg","PR_7.jpg"],
-  "Parties":["part_1.jpg","part_2.jpg","part_3.jpg","part_4.jpg","part_5.jpg"],
-  "Festivals":["fest_1.jpg","fest_2.jpg","fest_3.jpg","fest_4.jpg","fest_5.jpg","fest_6.jpg","fest_7.jpg","fest_8.jpg","fest_9.jpg"]};
-var img_path="img/event_images/";
+var images={
+  "Festivals":["fest_6.jpg","fest_1.JPG","fest_2.JPG","fest_3.JPG","fest_4.JPG","fest_5.JPG","fest_7.jpg","fest_8.JPG","fest_9.jpg"],
+  "Parties":["part_3.jpg","part_1.jpg","part_2.jpg","part_4.jpg","part_5.jpg"],
+  "PR":["PR_1.jpg","PR_2.jpg","PR_3.jpg","PR_4.jpg","PR_5.jpg","PR_6.jpg","PR_7.JPG"]};
+  var img_path="img/event_images/";
 var slideIndex = 1;
 function populate(folder){
 path=img_path+folder+'/';
