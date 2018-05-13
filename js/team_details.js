@@ -5,61 +5,31 @@
 */
 var team_details = {
 	IT: {
-		team_count : 5,
+		team_count : 2,
 		team_name : 'Information Technology',
 		teamMember1:{
-			name : 'Naman Jadhav',
+			name : 'Akshat Verma',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Old Pictures/it_naman_5.jpg'
+			picture_path: 'img/team_images/IT/Akshat Verma-Director-IT.JPG'
 		},
 		teamMember2:{
 			name : 'Shubham Sarwate',
-			position :'Director',
+			position :'Vice-President',
 			picture_path: 'img/team_images/IT/Shubham Sarwate.jpg'
-		},
-		teamMember3:{
-			name : 'Akshat Verma',
-			position :'Director',
-			picture_path: 'img/team_images/IT/Akshat Verma-Director-IT.JPG'
-		},
-		teamMember4:{
-			name : 'Himanshu Taneja',
-			position :'Director',
-			picture_path: 'img/team_images/IT/HimanshuTaneja-Director-IT.jpg'
-		},	
-		teamMember5:{
-			name : 'Arnav Kundu',
-			position :'Director',
-			picture_path: 'img/team_images/IT/Arnav.jpg'
 		}
 	},	
 	advocacy: {
-		team_count : 5,
+		team_count : 2,
 		team_name : 'Advocacy',
 		teamMember1:{
-			name : 'Ajinkya Ranadive',
+			name : 'Anoop Tiwari',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/Ajinkya Ranadive- VP Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/Anoop_Tiwari_Advocacy_Director.JPG'
 		},
 		teamMember2:{
 			name : 'Ali Akbar Shafi',
-			position :'Director',
+			position :'Vice-President',
 			picture_path: 'img/team_images/Advocacy/AliAkbar_Shafi-Director-Advocacy.jpg'
-		},	
-		teamMember3:{
-			name : 'Amit Ratwani',
-			position :'Director',
-			picture_path: 'img/team_images/Advocacy/AmitRatwani_Director_Advocacy.jpg'
-		},
-		teamMember4:{
-			name : 'Anoop Tiwari',
-			position :'Director',
-			picture_path: 'img/team_images/Advocacy/Anoop_Tiwari_Advocacy_Director.JPG'
-		},
-		teamMember5:{
-			name : 'Chiranjeev Ghosh',
-			position :'Director',
-			picture_path: 'img/team_images/Advocacy/ChiranjeevGhosh_Director_Advocacy.jpg'
 		}
 	},
 	editorial: {
