@@ -242,7 +242,7 @@ $( document ).ready(function() {
 */
 function generateHTMLTeamDetails(teamName){
 	var htmlCodeToInject = '';
-	$('#team_title').html('<span>'+team_details[teamName]['team_name']+' Team</span>');
+	$('#team_title').html('<span>'+team_details[teamName]['team_name']+'</span>');
 	var team_count = parseInt(team_details[teamName]['team_count']);
 	var count_to_three = 1;
 	for(var j=1;j<=team_count;j++){
