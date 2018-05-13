@@ -1,6 +1,6 @@
-var images={"PR":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"],
+var images={"PR":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.JPG"],
   "Parties":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"],
-  "Festivals":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg"]};
+  "Festivals":["1.JPG","2.JPG","3.JPG","4.JPG","5.JPG","6.jpg","7.jpg","8.JPG","9.jpg"]};
 var img_path="img/event_images/";
 var slideIndex = 1;
 function populate(folder){
