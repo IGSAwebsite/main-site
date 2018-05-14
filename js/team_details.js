@@ -199,24 +199,24 @@ var team_details = {
 			picture_path: 'img/team_images/Advisors/Rohit Kongari-Student Advisor.JPG'
 		},
 		teamMember4:{
-			name : 'Pranathi Gompa',
-			position : 'Advisor, President 2017-2018',
-			picture_path: 'img/team_images/Old Pictures/editorial_pranathi_7.jpg'
-		},
-		teamMember5:{
-			name : 'Vamsi Immadi',
-			position : 'Advisor',
-			picture_path: 'img/team_images/Old Pictures/event_vamsi_9.jpeg'
-		},
-		teamMember6:{
 			name : 'Aritra Biswas',
 			position : 'Advisor, President 2016-2017',
 			picture_path: 'img/team_images/Old Pictures/mentoring_aritra_1.jpg'
 		},
-		teamMember7:{
+		teamMember5:{
 			name : 'Radhika Saraf',
 			position : 'Advisor',
 			picture_path: 'img/team_images/Old Pictures/editorial_RadhikaSaraf_2.jpg'
+		},
+		teamMember6:{
+			name : 'Pranathi Gompa',
+			position : 'Advisor, President 2017-2018',
+			picture_path: 'img/team_images/Old Pictures/editorial_pranathi_7.jpg'
+		},
+		teamMember7:{
+			name : 'Vamsi Immadi',
+			position : 'Advisor',
+			picture_path: 'img/team_images/Old Pictures/event_vamsi_9.jpeg'
 		}
 	},
 	president: {
