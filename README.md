@@ -2,14 +2,12 @@
 
 Designed to keep up with the latest buzz created by IGSA on social media and to help new students to settle once they land in the USA.
 
-## Technicals
+## To-Do's:
+- [ ] Update Background Picture : ?
+- [ ] Update Team Images : ?
+- [ ] Develop Current Student Pages : ?
+- [ ] Integrate Gmail Events Calendar : ?
+- [ ] Integrate Eventbrite : ?
 
-Built on Twitter's Bootstrap framework & jQuery for animations, styling in CSS3 and most of the content is dynamically fetched on load.
 
-## Contributions
-Alok
-Naman
-Akshat
-Shubham
-Himanshu
-Arnav
+
