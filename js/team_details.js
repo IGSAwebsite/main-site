@@ -66,10 +66,10 @@ var team_details = {
 		},
 		teamMember4:{
 			name : 'Pallavi Kumari',
-			position :'Director',
+			position :'Senior Director',
 			picture_path: 'img/team_images/Events/pallavi-events.jpg'
 		}
-	}, 
+	},
 	finance: {
 		team_count : 3,
 		team_name : 'Finance',
