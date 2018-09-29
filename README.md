@@ -17,7 +17,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Advocacy |Editorial | Events| Finance |Marketing | Mentoring| Networking| PR|
 |-------|--------|------|-------|--------|---------|---------|---|
-|         |          |Google Calendar, EventBrite embed|         |          |Current students tab, FAQ list update|     |     |
+|         |          |Google Calendar, Eventbrite embed|         |          |Current students tab, FAQ list update|     |     |
 
 
 
