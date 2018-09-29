@@ -17,7 +17,7 @@ var team_details = {
 			position :'Vice-President',
 			picture_path: 'img/team_images/IT/Shubham Sarwate.jpg'
 		}
-	},	
+	},
 	advocacy: {
 		team_count : 2,
 		team_name : 'Advocacy',
@@ -47,27 +47,52 @@ var team_details = {
 		}
 	},
 	events: {
-		team_count : 4,
+		team_count : 9,
 		team_name : 'Events Planning',
 		teamMember1:{
-			name : 'Arjun Parameswaran',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Events/Arjun Parameswaran_Events_Director.jpg'
-		},
-		teamMember2:{
 			name : 'Biswajeet Mohapatra',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Events/Biswajeet_Mohapatra_Events_Director.jpg'
+			picture_path: 'img/team_images/Events/2018/Biswajeet_Vice- President_Events.jpg'
 		},
-		teamMember3:{
-			name : 'Jobin George Mathew',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Events/JobinGeorgeMathew_Events_Director.jpeg'
-		},
-		teamMember4:{
+		teamMember2:{
 			name : 'Pallavi Kumari',
 			position :'Senior Director',
-			picture_path: 'img/team_images/Events/pallavi-events.jpg'
+			picture_path: 'img/team_images/Events/2018/Pallavi_Kumari_Sr. Director_Events.jpeg'
+		},
+		teamMember3:{
+			name : 'Arch Desai',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/Arch_Desai_Director_Events.jpg'
+		},
+		teamMember4:{
+			name : 'Chaitanya Areti',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/ChaitanyaAreti_Director_Events.png'
+		},
+		teamMember5:{
+			name : 'Dhruvil Shah',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/Dhruvil Shah__Director_Events.jpg'
+		},
+		teamMember6:{
+			name : 'Naman Soni',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/Naman Soni_Director_Events.jpg'
+		},
+		teamMember7:{
+			name : 'Pallavi Tiwari',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/PallaviTiwari_Director_Events.jpg'
+		},
+		teamMember8:{
+			name : 'Shagun Shukla',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/ShagunShukla_Director_Events.jpg'
+		},
+		teamMember9:{
+			name : 'Varun Kamal Nigam',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2018/Varun Kamal Nigam_Director_Events.jpg'
 		}
 	},
 	finance: {
@@ -252,7 +277,7 @@ function generateHTMLTeamDetails(teamName){
 		if(count_to_three == 1)
 			htmlCodeToInject += '<ul class="polaroids row" >';
 		htmlCodeToInject += '<li class="col-sm-4" style="padding-top:40px;">'+
-			'<a title="'+member_name+'">'+				
+			'<a title="'+member_name+'">'+
 				'<img src="'+member_image_location+' ">'+
 				'<p style="font-size: 11px;"><i>'+member_position+'</i></p>'+
 			'</a>'+
@@ -277,4 +302,4 @@ $.urlParam = function(name){
     } else{
        return results[1] || 0;
     }
-}	
+}
