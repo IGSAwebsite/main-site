@@ -6,7 +6,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Task |Owners| Status|
 |---- |:-----:|------:|
-|Update Team Pictures|Arshith, Amit | Events updated|
+|Update Team Pictures|Arshith, Amit | Events, Advocacy updated|
 |Update Background Picture | Shubham | |
 |Develop Current Student Pages | ?| |
 |Integrate Gmail Events Calendar | ?| |
