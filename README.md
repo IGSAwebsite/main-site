@@ -12,6 +12,11 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Integrate Gmail Events Calendar | ?| |
 |Integrate Eventbrite | ?| |
 
+## Bugs
+|Bug Description| Owners| Status|
+|---- |:-----:|------:|
+|Gallery showing the wrong images for festival tab on page reload | Aditya, Arshith| Fixed |
+
 
 ## Portfolio Requests:
 
