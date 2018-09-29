@@ -16,6 +16,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 ## Portfolio Requests
 
 |Advocacy |Editorial | Events| Finance |Marketing | Mentoring| Networking| PR|
+|---- |:-----:|------:|:-----:|:-----:|------:|:-----:|:-----:|
 | | | | | | | | |
 
 Mentoring: Current stu, FAQ list
