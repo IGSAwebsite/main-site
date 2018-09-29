@@ -49,4 +49,4 @@ function openCity(evt, Name) {
   evt.currentTarget.className += " w3-red";
   populate(Name);
 }
-populate("PR");
+populate("Festivals");
