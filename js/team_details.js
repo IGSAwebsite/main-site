@@ -19,17 +19,37 @@ var team_details = {
 		}
 	},
 	advocacy: {
-		team_count : 2,
+		team_count : 6,
 		team_name : 'Advocacy',
 		teamMember1:{
 			name : 'Anoop Tiwari',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/Anoop_Tiwari_Advocacy_Director.JPG'
+			picture_path: 'img/team_images/Advocacy/2018/Anoop_Tiwari_VP_Advocacy.jpeg'
 		},
 		teamMember2:{
 			name : 'Ali Akbar Shafi',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/AliAkbar_Shafi-Director-Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2018/Ali_AKbar_Shafi_VP_Advocacy.jpeg'
+		},
+		teamMember3:{
+			name : 'Akhil Ravendran',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2018/Akhil_Ravendran_Director_Advocacy.jpg'
+		},
+		teamMember4:{
+			name : 'Ankur Kumar',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2018/Ankur Kumar_Director_Advocacy.jpg'
+		},
+		teamMember5:{
+			name : 'Keerthan Bantwal',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2018/Keerthan_Bantwal_Director_Advocacy.jpg'
+		},
+		teamMember6:{
+			name : 'Nandhu Pillay',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2018/Nandhu Pillay_Director_Advocacy.jpg'
 		}
 	},
 	editorial: {
