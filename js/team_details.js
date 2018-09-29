@@ -47,49 +47,59 @@ var team_details = {
 		}
 	},
 	events: {
-		team_count : 9,
+		team_count : 11,
 		team_name : 'Events Planning',
 		teamMember1:{
+			name : 'Arjun Parameswaran',
+			position :'Vice-President',
+			picture_path: 'img/team_images/Events/Arjun Parameswaran_Events_Director.jpg'
+		},
+		teamMember2:{
 			name : 'Biswajeet Mohapatra',
 			position :'Vice-President',
 			picture_path: 'img/team_images/Events/2018/Biswajeet_Vice- President_Events.jpg'
 		},
-		teamMember2:{
+		teamMember3:{
+			name : 'Jobin George Mathew',
+			position :'Vice-President',
+			picture_path: 'img/team_images/Events/JobinGeorgeMathew_Events_Director.jpeg'
+		},
+		teamMember4:{
 			name : 'Pallavi Kumari',
 			position :'Senior Director',
 			picture_path: 'img/team_images/Events/2018/Pallavi_Kumari_Sr. Director_Events.jpeg'
 		},
-		teamMember3:{
+		teamMember5:{
 			name : 'Arch Desai',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/Arch_Desai_Director_Events.jpg'
 		},
-		teamMember4:{
+		teamMember6:{
 			name : 'Chaitanya Areti',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/ChaitanyaAreti_Director_Events.png'
 		},
-		teamMember5:{
+		teamMember7:{
 			name : 'Dhruvil Shah',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/Dhruvil Shah__Director_Events.jpg'
 		},
-		teamMember6:{
+		teamMember8:{
 			name : 'Naman Soni',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/Naman Soni_Director_Events.jpg'
 		},
-		teamMember7:{
+		teamMember9:{
 			name : 'Pallavi Tiwari',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/PallaviTiwari_Director_Events.jpg'
 		},
-		teamMember8:{
+		teamMember10:{
 			name : 'Shagun Shukla',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/ShagunShukla_Director_Events.jpg'
 		},
-		teamMember9:{
+		teamMember11:{
 			name : 'Varun Kamal Nigam',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2018/Varun Kamal Nigam_Director_Events.jpg'
