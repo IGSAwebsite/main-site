@@ -4,13 +4,26 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 ## To-Do's:
 
-|Task |Members| Status|
+|Task |Owners| Status|
 |---- |:-----:|------:|
-|Update Team Pictures|Arshith, Amit | Waiting for pics|
+|Update Team Pictures|Arshith, Amit | Events updated|
 |Update Background Picture | Shubham | |
 |Develop Current Student Pages | ?| |
 |Integrate Gmail Events Calendar | ?| |
 |Integrate Eventbrite | ?| |
+
+## Bugs
+|Bug Description| Owners| Status|
+|---- |:-----:|------:|
+|Gallery showing the wrong images for festival tab on page reload | Aditya, Arshith| Fixed |
+
+
+## Portfolio Requests:
+
+|Advocacy |Editorial | Events| Finance |Marketing | Mentoring| Networking| PR|
+|-------|--------|------|-------|--------|---------|---------|---|
+|         |          |Google Calendar, Eventbrite embed|         |          |Current students tab, FAQ list update|     |     |
+
 
 
 
