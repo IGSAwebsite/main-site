@@ -4,7 +4,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 ## To-Do's:
 
-|Task |Members| Status|
+|Task |Owners| Status|
 |---- |:-----:|------:|
 |Update Team Pictures|Arshith, Amit | Events updated|
 |Update Background Picture | Shubham | |
