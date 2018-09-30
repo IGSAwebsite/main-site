@@ -195,27 +195,47 @@ var team_details = {
 		}
 	},
 	marketing: {
-		team_count : 4,
+		team_count : 8,
 		team_name : 'Marketing',
 		teamMember1:{
-			name : 'Saksham Gupta',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Marketing/Saksham Gupta - Marketing - Director.jpg'
+		  name : 'Arnav Kundu',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Marketing/Marketing/Arnav_Kundu_VP_Marketing.jpg'
 		},
 		teamMember2:{
-			name : 'Siddarth Biyani',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Marketing/Siddarth Biyani-Marketing-Director.jpg'
+		  name : 'Siddarth Biyani',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Marketing/Marketing/Siddarth_Biyani_VP_Marketing.jpg'
 		},
 		teamMember3:{
-			name : 'Arnav Kundu',
-			position :'Vice-President',
-			picture_path: 'img/team_images/IT/Arnav.jpg'
+		  name : 'Saksham Gupta',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Marketing/Marketing/Saksham_Gupta_VP_Marketing.JPG'
 		},
 		teamMember4:{
-			name : 'Sambandh Dhal',
-			position :'Director',
-			picture_path: 'img/team_images/Marketing/Sambandh.jpg'
+		  name : 'Sambandh Dhal',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/Marketing/Sambandh_Dhal_Director_Marketing.jpg'
+		},
+		teamMember5:{
+		  name : 'Chetan Joshi',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/Marketing/Chetan Joshi_Director_Marketing.jpg'
+		},
+		teamMember6:{
+		    name : 'Jayshil Patel',
+		    position :'Director',
+		    picture_path: 'img/team_images/Marketing/Marketing/Jayshil_Patel_Director_Marketing.jpg'
+		},
+		teamMember7:{
+		    name : 'Rupak Ghawghawe',
+		    position :'Director',
+		    picture_path: 'img/team_images/Marketing/Marketing/Rupak_Ghawghawe_Director_Marketing.jpg'
+		},
+		teamMember8:{
+		  name : 'Shikhar Chandra',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/Marketing/Shikhar_Chandra_Director_Marketing.jpg'
 		}
 	},
 	networking: {
