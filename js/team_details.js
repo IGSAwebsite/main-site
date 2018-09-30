@@ -219,22 +219,32 @@ var team_details = {
 		}
 	},
 	networking: {
-		team_count : 3,
+		team_count : 5,
 		team_name : 'Networking',
 		teamMember1:{
-			name : 'Mohit Dholi',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Mentoring/VP - Mentoring - Mohit Dholi.JPG'
+		  name : 'Anjali Budhani',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Networking/2018/Anjali Budhani_VP_Networking.JPG'
 		},
 		teamMember2:{
-			name : 'Anjali Budhani',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Networking/anjali.jpg'
+		  name : 'Shyam Sundar',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Networking/2018/Shyam Sundar_VP_Networking.jpeg'
 		},
 		teamMember3:{
-			name : 'Shyam Sundar Balasubramaniam',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Networking/shyam.png'
+		  name : 'Ashwin Vadlamani',
+		  position :'Director',
+		  picture_path: 'img/team_images/Networking/2018/Ashwin Vadlamani_Director_Networking.JPG'
+		},
+		teamMember4:{
+		  name : 'Rohan Agrawal',
+		  position :'Director',
+		  picture_path: 'img/team_images/Networking/2018/Rohan Agrawal_Director_Networking.png'
+		},
+		teamMember5:{
+		  name : 'Sai Praneet',
+		  position :'Director',
+		  picture_path: 'img/team_images/Networking/2018/Sai Praneet Toram_Director_Networking.jpg'
 		}
 	},
 	pr: {
