@@ -53,17 +53,37 @@ var team_details = {
 		}
 	},
 	editorial: {
-		team_count : 2,
+		team_count : 6,
 		team_name : 'Editorial',
 		teamMember1:{
 			name : 'Namitha',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Editorial/Namitha_Editorial_Director.JPG'
+			picture_path: 'img\team_images\Editorial\2018\Namitha Sreenatha_VP_Editorial.jpg'
 		},
 		teamMember2:{
 			name : 'Arushi Patro',
 			position :'Vice-President',
-			picture_path: 'img/team_images/PR/Arushi_Patro-Director-Public_Relations.png'
+			picture_path: 'img\team_images\Editorial\2018\Arushi Patro_VP_Editorial.jpg'
+		},
+		teamMember3:{
+			name : 'Aishwarya',
+			position :'Director',
+			picture_path: 'img\team_images\Editorial\2018\Aishwarya Manjunatha_Director_Editorial.JPG'
+		},
+		teamMember4:{
+			name : 'Debopamaa',
+			position :'Director',
+			picture_path: 'img\team_images\Editorial\2018\Debopamaa Debnath_Director_Editorial.jpg'
+		},
+		teamMember5:{
+			name : 'Harshit',
+			position :'Director',
+			picture_path: 'img\team_images\Editorial\2018\Harshit Gupta_Director_Editorial.JPG'
+		},
+		teamMember6:{
+			name : 'Prabhasa',
+			position :'Director',
+			picture_path: 'img\team_images\Editorial\2018\Prabhasa Kalkur_Director_Editorial.jpg'
 		}
 	},
 	events: {
