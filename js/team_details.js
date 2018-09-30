@@ -166,32 +166,42 @@ var team_details = {
 		}
 	},
 	mentoring: {
-		team_count : 5,
+		team_count : 7,
 		team_name : 'Mentoring',
 		teamMember1:{
-			name : 'Shreedevi',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Mentoring/shreedevi.JPG'
+		  name : 'Shreedevi',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Mentoring/2018/shreedevi_VP_Mentoring.JPG'
 		},
 		teamMember2:{
-			name : 'Nimish Ojale',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Mentoring/Nimish Ojale_Mentoring_Director.jpg'
+		  name : 'Nimish Ojale',
+		  position :'Vice-President',
+		  picture_path: 'img/team_images/Mentoring/2018/Nimish Ojale_Mentoring_VP.jpg'
 		},
 		teamMember3:{
-			name : 'Abhishek Nayak',
-			position :'Senior Director',
-			picture_path: 'img/team_images/Mentoring/Abhishek Nayak_Mentoring_Director.jpg'
+		  name : 'Abhishek Nayak',
+		  position :'Senior Director',
+		  picture_path: 'img/team_images/Mentoring/2018/Abhishek Nayak_Senior Director_Mentoring.jpg'
 		},
 		teamMember4:{
-			name : 'Sayali Belsare',
-			position :'Senior Director',
-			picture_path: 'img/team_images/Mentoring/Sayali_Belsare-Director-Mentoring.JPG'
+		  name : 'Sayali Belsare',
+		  position :'Senior Director',
+		  picture_path: 'img/team_images/Mentoring/2018/Sayali_Belsare_SrDirector-Mentoring.JPG'
 		},
 		teamMember5:{
-			name : 'Sakina Mota',
-			position :'Director',
-			picture_path: 'img/team_images/Mentoring/sakina.jpg'
+		  name : 'Sakina Mota',
+		  position :'Senior Director',
+		  picture_path: 'img/team_images/Mentoring/2018/Sakina Mohammed Mota_Senior Director_Mentoring.jpg'
+		},
+		teamMember6:{
+		  name : 'Pratima Purohit',
+		  position :'Director',
+		  picture_path: 'img/team_images/Mentoring/2018/Pratima Purohit_Director_Mentoring.jpg'
+		},
+		teamMember7:{
+		  name : 'Divya Manoj Jain',
+		  position :'Director',
+		  picture_path: 'img/team_images/Mentoring/2018/Divya Manoj Jain_Director_Mentoring.jpeg'
 		}
 	},
 	marketing: {
