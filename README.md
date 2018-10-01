@@ -7,7 +7,8 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Task |Owners| Status|
 |---- |:-----:|------:|
 |Update Team Pictures|Arshith, Amit | Events, Advocacy updated|
-|Update Background Picture | Shubham | |
+|~~Update Background Picture~~ | Shubham |Done |
+|~~Create QR code~~ | Shubham | Done |
 |Develop Current Student Pages | Avinash| |
 |Integrate Gmail Events Calendar | Aditya| |
 |Integrate Eventbrite | Aditya, Akshat| |
