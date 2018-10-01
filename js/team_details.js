@@ -311,7 +311,7 @@ var team_details = {
 		},
 		teamMember3:{
 			name : 'Rohit Kongari',
-			position : 'Fonder',
+			position : 'Founder',
 			picture_path: 'img/team_images/Advisors/Rohit Kongari-Student Advisor.JPG'
 		},
 		teamMember4:{
