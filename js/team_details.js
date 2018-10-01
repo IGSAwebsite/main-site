@@ -210,42 +210,42 @@ var team_details = {
 		teamMember1:{
 		  name : 'Arnav Kundu',
 		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/Marketing/Arnav_Kundu_VP_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2018/Arnav_Kundu_VP_Marketing.jpg'
 		},
 		teamMember2:{
 		  name : 'Siddarth Biyani',
 		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/Marketing/Siddarth_Biyani_VP_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2018/Siddarth_Biyani_VP_Marketing.jpg'
 		},
 		teamMember3:{
 		  name : 'Saksham Gupta',
 		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/Marketing/Saksham_Gupta_VP_Marketing.JPG'
+		  picture_path: 'img/team_images/Marketing/2018/Saksham_Gupta_VP_Marketing.JPG'
 		},
 		teamMember4:{
 		  name : 'Sambandh Dhal',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/Marketing/Sambandh_Dhal_Director_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2018/Sambandh_Dhal_Director_Marketing.jpg'
 		},
 		teamMember5:{
 		  name : 'Chetan Joshi',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/Marketing/Chetan Joshi_Director_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2018/Chetan Joshi_Director_Marketing.jpg'
 		},
 		teamMember6:{
 		    name : 'Jayshil Patel',
 		    position :'Director',
-		    picture_path: 'img/team_images/Marketing/Marketing/Jayshil_Patel_Director_Marketing.jpg'
+		    picture_path: 'img/team_images/Marketing/2018/Jayshil_Patel_Director_Marketing.jpg'
 		},
 		teamMember7:{
 		    name : 'Rupak Ghawghawe',
 		    position :'Director',
-		    picture_path: 'img/team_images/Marketing/Marketing/Rupak_Ghawghawe_Director_Marketing.jpg'
+		    picture_path: 'img/team_images/Marketing/2018/Rupak_Ghawghawe_Director_Marketing.jpg'
 		},
 		teamMember8:{
 		  name : 'Shikhar Chandra',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/Marketing/Shikhar_Chandra_Director_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2018/Shikhar_Chandra_Director_Marketing.jpg'
 		}
 	},
 	networking: {
