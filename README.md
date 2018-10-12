@@ -6,12 +6,12 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Task |Owners| Status|
 |---- |:-----:|------:|
-|Update Team Pictures|Arshith, Amit | Events, Advocacy updated|
+|Update Team Pictures|Arshith, Amit | Finance, PR pending|
 |~~Update Background Picture~~ | Shubham |Done |
 |~~Create QR code~~ | Shubham | Done |
-|Develop Current Student Pages | Avinash| |
-|Integrate Gmail Events Calendar | Aditya| |
-|Integrate Eventbrite | Aditya, Akshat| |
+|Develop Current Student Pages | Avinash, Aditya| |
+|~~Integrate Gmail Events Calendar~~ | Arshith| |
+|Integrate Eventbrite | Arshith, Akshat| |
 
 ## Bugs
 |Bug Description| Owners| Status|
