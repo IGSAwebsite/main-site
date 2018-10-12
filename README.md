@@ -28,8 +28,8 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 ## IGSA Meeting Updates
 
-> IGSA team pictures are nearly updated.
-> Google Calendar integration.
-> Eventbrite requires SSL/https.
-> Current Students page : http://igsatamu.com/resources_page.html?pageFor=welcome
+* IGSA team pictures are nearly updated.
+* Google Calendar integration.
+* Eventbrite requires SSL/https.
+* Current Students page : http://igsatamu.com/resources_page.html?pageFor=welcome
 
