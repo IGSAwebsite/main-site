@@ -5,7 +5,7 @@
 */
 var team_details = {
 	IT: {
-		team_count : 2,
+		team_count : 6,
 		team_name : 'Information Technology',
 		teamMember1:{
 			name : 'Akshat Verma',
@@ -16,6 +16,26 @@ var team_details = {
 			name : 'Shubham Sarwate',
 			position :'Vice-President',
 			picture_path: 'img/team_images/IT/Shubham Sarwate.jpg'
+		},
+		teamMember3:{
+			name : 'Amit Yadav',
+			position :'Director',
+			picture_path: 'img/team_images/IT/Amit-Yadav.jpg'
+		},
+		teamMember4:{
+			name : 'Avinash Paliwal',
+			position :'Director',
+			picture_path: 'img/team_images/IT/Avinash-Paliwal.jpg'
+		},
+		teamMember5:{
+			name : 'Arshit Dev',
+			position :'Director',
+			picture_path: 'img/team_images/IT/Arshit-Dev.jpg'
+		},
+		teamMember6:{
+			name : 'Aditya Deshpande',
+			position :'Director',
+			picture_path: 'img/team_images/IT/Aditya-Deshpande.jpg'
 		}
 	},
 	advocacy: {
@@ -313,7 +333,7 @@ var team_details = {
 		teamMember4:{
 			name : 'Shilpa Chanshetti',
 			position :'Director',
-			picture_path: 'img/team_images/PR/Shilpa-Chanshetti.jpg'
+			picture_path: 'img/team_images/PR/Shilpa-Chansheti.jpg'
 		},
 		teamMember5:{
 			name : 'Vrushali Kotasthane',
@@ -323,7 +343,7 @@ var team_details = {
 		teamMember6:{
 			name : 'Saahil Batra',
 			position :'Director',
-			picture_path: 'img/team_images/PR/Saahil-Batra.jpg'
+			picture_path: 'img/team_images/PR/Sahil-Batra.jpg'
 		},
 		teamMember7:{
 			name : 'Swarupa Krish',
