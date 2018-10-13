@@ -165,9 +165,9 @@ var team_details = {
 			picture_path: 'img/team_images/Finance/Mahesh-agarwal.jpg'
 		},
 		teamMember4:{
-			name : 'Ameya',
+			name : 'Ameya Deshpande',
 			position :'Director',
-			picture_path: 'img/team_images/Finance/Ameya.jpg'
+			picture_path: 'img/team_images/Finance/Ameya-Deshpande.jpg'
 		},
 		teamMember5:{
 			name : 'Jay Shah',
@@ -175,9 +175,9 @@ var team_details = {
 			picture_path: 'img/team_images/Finance/Jay-shah.jpg'
 		},
 		teamMember6:{
-			name : 'Parth',
+			name : 'Parth Bhandakkar',
 			position :'Director',
-			picture_path: 'img/team_images/Finance/Parth.jpg'
+			picture_path: 'img/team_images/Finance/Parth-Bhandakkar.jpg'
 		}
 	},
 	mentoring: {
@@ -293,7 +293,7 @@ var team_details = {
 		}
 	},
 	pr: {
-		team_count : 3,
+		team_count : 7,
 		team_name : 'Public Relations',
 		teamMember1:{
 			name : 'Bansi Khajuria',
@@ -303,12 +303,32 @@ var team_details = {
 		teamMember2:{
 			name : 'Rutika Nanivadekar',
 			position :'Vice-President',
-			picture_path: 'img/team_images/Events/rutika.jpeg'
+			picture_path: 'img/team_images/PR/Rutika-Nanivadekar.jpg'
 		},
 		teamMember3:{
 			name : 'Abhinaba Chakrabarti',
 			position :'Senior Director',
 			picture_path: 'img/team_images/PR/abhinanda.jpg'
+		},
+		teamMember4:{
+			name : 'Shilpa Chanshetti',
+			position :'Director',
+			picture_path: 'img/team_images/PR/Shilpa-Chanshetti.jpg'
+		},
+		teamMember5:{
+			name : 'Vrushali Kotasthane',
+			position :'Director',
+			picture_path: 'img/team_images/PR/Vrushali-Kotasthane.jpg'
+		},
+		teamMember6:{
+			name : 'Saahil Batra',
+			position :'Director',
+			picture_path: 'img/team_images/PR/Saahil-Batra.jpg'
+		},
+		teamMember7:{
+			name : 'Swarupa Krish',
+			position :'Director',
+			picture_path: 'img/team_images/PR/Swarupa-Krish.jpg'
 		}
 	},
 	advisory: {
