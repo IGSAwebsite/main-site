@@ -147,7 +147,7 @@ var team_details = {
 		}
 	},
 	finance: {
-		team_count : 3,
+		team_count : 6,
 		team_name : 'Finance',
 		teamMember1:{
 			name : 'Saumil Gogri',
@@ -163,6 +163,21 @@ var team_details = {
 			name : 'Mahesh Agarwal',
 			position :'Senior Director',
 			picture_path: 'img/team_images/Finance/Mahesh-agarwal.jpg'
+		},
+		teamMember4:{
+			name : 'Ameya',
+			position :'Director',
+			picture_path: 'img/team_images/Finance/Ameya.jpg'
+		},
+		teamMember5:{
+			name : 'Jay Shah',
+			position :'Director',
+			picture_path: 'img/team_images/Finance/Jay-shah.jpg'
+		},
+		teamMember6:{
+			name : 'Parth',
+			position :'Director',
+			picture_path: 'img/team_images/Finance/Parth.jpg'
 		}
 	},
 	mentoring: {
