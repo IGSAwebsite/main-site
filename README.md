@@ -6,9 +6,9 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Task |Owners| Status|Deadline |
 |---- |:-----:|------|-----|
-|Update Team Pictures| Amit | Finance, PR pending|Thursday|
-|Develop Current Student Pages | Avinash, Shubham| |Friday |
-|Integrate Eventbrite | Arshith, Akshat, Aditya| |Wednesday|
+|Update Team Pictures| Amit | Finance, PR pending|Thursday (Nov 1)|
+|Develop Current Student Pages | Avinash, Shubham| |Friday (Nov 2)|
+|Integrate Eventbrite | Arshith, Akshat, Aditya| |Wednesday (Oct 31)|
 |~~Update Background Picture~~ | Shubham |Done ||
 |~~Create QR code~~ | Shubham | Done ||
 |~~Integrate Gmail Events Calendar~~ | Arshith| ||
