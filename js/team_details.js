@@ -30,7 +30,7 @@ var team_details = {
 		teamMember5:{
 			name : 'Arshit Dev',
 			position :'Director',
-			picture_path: 'img/team_images/IT/Arshit-Dev.jpg'
+			picture_path: 'img/team_images/IT/Arshith-Dev.jpg'
 		},
 		teamMember6:{
 			name : 'Aditya Deshpande',
