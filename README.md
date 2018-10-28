@@ -12,7 +12,8 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Integrate Eventbrite | Arshith, Akshat, Aditya| |Wednesday (Oct 31)|
 |~~Update Background Picture~~ | Shubham |Done ||
 |~~Create QR code~~ | Shubham | Done ||
-|~~Integrate Gmail Events Calendar~~ | Arshith| ||
+|~~Update About Us Picture~~ | Arshith |Done |
+|~~Integrate Gmail Events Calendar~~ | Arshith|Done ||
 
 ## Bugs
 |Bug Description| Owners| Status|
@@ -30,5 +31,5 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 ## IGSA Meeting Updates
 
 * HTTPS activation is in progress.
-* Current Students page : In discussion with the Mentoring team. 
+* Current Students page : In discussion with the Mentoring team.
 * Team Images : Updated.
