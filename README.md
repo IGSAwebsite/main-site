@@ -10,7 +10,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Integrate Eventbrite | Arshith, Akshat, Aditya| |Wednesday (Oct 31)|
 |~~HTTP to HTTPS migration~~ |Shubham, Akshat| Done||
 |~~Update Team Pictures~~| Amit | Completed | October 26 |
-|~~Update Presidents Page ~~| Amit | Completed |Thursday (Nov 1)|
+|~~Update Presidents Page~~| Amit | Completed |Thursday (Nov 1)|
 |~~Update Background Picture~~ | Shubham |Done ||
 |~~Create QR code~~ | Shubham | Done ||
 |~~Update About Us Picture~~ | Arshith |Done |
