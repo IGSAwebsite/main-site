@@ -391,7 +391,7 @@ var team_details = {
 		}
 	},
 	president: {
-		team_count : 9,
+		team_count : 10,
 		team_name : 'Our Presidents',
 		teamMember1:{
 			name : 'Ronak Mohanty',
@@ -399,41 +399,46 @@ var team_details = {
 			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
 		},
 		teamMember2:{
+			name : 'Pranati Gompa',
+			position :'President (2017-18)',
+			picture_path: 'img/team_images/Old Pictures/Previous Presidents/editorial_pranathi_7.jpg'
+		},
+		teamMember3:{
 			name : 'Utkarsh Pandey',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/utkarsh_pandey.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 			name : 'Aritra Biswas',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/mentoring_aritra_1.jpg'
 		},
-		teamMember4:{
+		teamMember5:{
 			name : 'Sudhanshu Deshpandey',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/event_sudanshu_6.jpg'
 		},
-		teamMember5:{
+		teamMember6:{
 			name : 'Krupal Bhatt',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/krupal_bhatt.jpg'
 		},
-		teamMember6:{
+		teamMember7:{
 			name : 'Arjun Shanker',
 			position :'President (2014-15)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/arjun_shanker.jpg'
 		},
-		teamMember7:{
+		teamMember8:{
 			name : 'Rohit Kongari',
 			position :'President (2013-14)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_rohit_3.jpg'
 		},
-		teamMember8:{
+		teamMember9:{
 			name : 'Rohan Shirodkar',
 			position :'President (2012-13)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/rohan_shirodkar.jpg'
 		},
-		teamMember9:{
+		teamMember10:{
 			name : 'Anuj Choudhary',
 			position :'President (2010-12)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_anuj_2.jpg'
