@@ -9,7 +9,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Android Application | Avinash| Pending |TBD|
 |Integrate Eventbrite | Arshith, Aditya, Akshat| Pending |TBD|
 |Develop Current Student Pages | Amit| Pending |TBD|
-|Any changes suggested | Amit| Pending |TBD|
+|Any changes/updates on website | Amit| Pending |TBD|
 |~~HTTP to HTTPS migration~~ |Shubham, Akshat| Completed||
 |~~Update Team Pictures~~| Amit | Completed |
 |~~Update Presidents Page~~| Amit | Completed |
