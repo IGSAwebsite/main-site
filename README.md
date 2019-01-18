@@ -6,15 +6,17 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Task |Owners| Status|Deadline |
 |---- |:-----:|------|-----|
-|Develop Current Student Pages | Avinash, Shubham| |Friday (Nov 2)|
-|Integrate Eventbrite | Arshith, Akshat, Aditya| |Wednesday (Oct 31)|
-|~~HTTP to HTTPS migration~~ |Shubham, Akshat| Done||
-|~~Update Team Pictures~~| Amit | Completed | October 26 |
-|~~Update Presidents Page~~| Amit | Completed |Thursday (Nov 1)|
-|~~Update Background Picture~~ | Shubham |Done ||
-|~~Create QR code~~ | Shubham | Done ||
-|~~Update About Us Picture~~ | Arshith |Done |
-|~~Integrate Gmail Events Calendar~~ | Arshith|Done ||
+|Android Application | Avinash| Pending |TBD|
+|Integrate Eventbrite | Arshith, Aditya, Akshat| Pending |TBD|
+|Develop Current Student Pages | Amit| Pending |TBD|
+|Any changes suggested | Amit| Pending |TBD|
+|~~HTTP to HTTPS migration~~ |Shubham, Akshat| Completed||
+|~~Update Team Pictures~~| Amit | Completed |
+|~~Update Presidents Page~~| Amit | Completed |
+|~~Update Background Picture~~ | Shubham |Completed ||
+|~~Create QR code~~ | Shubham | Completed ||
+|~~Update About Us Picture~~ | Arshith |Completed |
+|~~Integrate Gmail Events Calendar~~ | Arshith|Completed ||
 
 ## Bugs
 |Bug Description| Owners| Status|
@@ -26,7 +28,7 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Advocacy |Editorial | Events| Finance |Marketing | Mentoring| Networking| PR|
 |-------|--------|------|-------|--------|---------|---------|---|
-|         |          |Google Calendar, Eventbrite embed|         |Sponsor Update|Current students tab, FAQ list update|Q&A Section|     |
+|         |          |Eventbrite embed|         |Sponsor Update|Current students tab, FAQ list update|Q&A Section|     |
 
 
 ## IGSA Meeting Updates
