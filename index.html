@@ -465,6 +465,27 @@
           <h2>OUR
 			<strong>EVENTS</strong>
 			</h2>
+            <!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/igsa-republic-day-celebration-2019-tickets-54903807767" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-54903807767" type="button">Buy Tickets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '54903807767',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-54903807767',
+        onOrderComplete: exampleCallback
+    });
+</script>
           <div class="line">
             <hr>
           </div>
