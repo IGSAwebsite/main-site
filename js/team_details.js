@@ -81,9 +81,9 @@ var team_details = {
 		  picture_path: 'img/team_images/Editorial/2018/Namitha Sreenatha_VP_Editorial.jpg'
 		},
 		teamMember2:{
-		  name : 'Arushi Patro',
+		  name : 'Rutika Nanivadekar',
 		  position :'Vice-President',
-		  picture_path: 'img/team_images/Editorial/2018/Arushi Patro_VP_Editorial.jpg'
+		  picture_path: 'img/team_images/Editorial/2018/Rutika-Nanivadekar.jpg'
 		},
 		teamMember3:{
 		  name : 'Aishwarya',
@@ -321,9 +321,9 @@ var team_details = {
 			picture_path: 'img/team_images/PR/Bansi Khajuria-Director-PR.jpg'
 		},
 		teamMember2:{
-			name : 'Rutika Nanivadekar',
+			name : 'Arushi Patro',
 			position :'Vice-President',
-			picture_path: 'img/team_images/PR/Rutika-Nanivadekar.jpg'
+			picture_path: 'img/team_images/PR/Arushi Patro_VP_PR.jpg'
 		},
 		teamMember3:{
 			name : 'Abhinaba Chakrabarti',
