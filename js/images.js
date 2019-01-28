@@ -1,5 +1,5 @@
 var images={
-  "Festivals":["fest_6.jpg","fest_1.JPG","fest_2.JPG","fest_3.JPG","fest_4.JPG","fest_5.JPG","fest_7.jpg","fest_8.JPG","fest_9.jpg","fest_10.jpg","fest_11.jpg","fest_12.jpg","fest_12.jpg","fest_13.jpg","fest_14.jpg","fest_15.jpg","fest_16.jpg"],
+  "Festivals":["fest_6.jpg","fest_1.JPG","fest_2.JPG","fest_3.JPG","fest_4.JPG","fest_5.JPG","fest_7.jpg","fest_8.JPG","fest_9.jpg","fest_10.jpg","fest_11.jpg","fest_12.jpg","fest_13.jpg","fest_14.jpg","fest_15.jpg","fest_16.jpg"],
   "Parties":["welcome_party_2018_1.jpg","welcome_party_2018_2.jpg","welcome_party_2018_3.jpg","welcome_party_2018_4.jpg","part_3.jpg","part_1.jpg","part_2.jpg","part_4.jpg","part_5.jpg"],
   "PR":["PR_1.jpg","PR_2.jpg","PR_3.jpg","PR_4.jpg","PR_5.jpg","PR_6.jpg","PR_7.JPG"]};
   var img_path="img/event_images/";
