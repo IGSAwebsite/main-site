@@ -13,13 +13,13 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |Image Updates | Put few images of last Diwali in the gallery in Festivals section | Amit| Completed |Jan 25|
 |Social media icon enhancement | Figure out a way to make the social media icons look bigger than they are right now. Either put kind of banner below the background image or put the icons in a larger size under where it is written ‘IGSA Scholarship’ right now. | Amit| Pending |Jan 25|
 |~~HTTP/HTTPS redirection issue~~ | URL redirection issue | Akshat| Completed |Feb 1|
-|~~HTTP to HTTPS migration~~ |Shubham, Akshat| Completed||
-|~~Update Team Pictures~~| Amit | Completed |
-|~~Update Presidents Page~~| Amit | Completed |
-|~~Update Background Picture~~ | Shubham |Completed ||
-|~~Create QR code~~ | Shubham | Completed ||
-|~~Update About Us Picture~~ | Arshith |Completed |
-|~~Integrate Gmail Events Calendar~~ | Arshith|Completed ||
+|~~HTTP to HTTPS migration~~ | | Shubham, Akshat| Completed|
+|~~Update Team Pictures~~| | Amit | Completed |
+|~~Update Presidents Page~~| | Amit | Completed |
+|~~Update Background Picture~~ | | Shubham |Completed |
+|~~Create QR code~~ | | Shubham | Completed |
+|~~Update About Us Picture~~ | | Arshith |Completed |
+|~~Integrate Gmail Events Calendar~~ | | Arshith|Completed |
 
 ## Bugs
 |Bug Description| Owners| Status|
