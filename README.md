@@ -12,6 +12,8 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |~~Switch VPs in team info~~ | Switch Rutika to Editorial from PR and Arushi to PR from editorial| Aditya| Completed |
 |Image Updates | Put few images of last Diwali in the gallery in Festivals section | Amit| Completed |Jan 25|
 |Social media icon enhancement | Figure out a way to make the social media icons look bigger than they are right now. Either put kind of banner below the background image or put the icons in a larger size under where it is written ‘IGSA Scholarship’ right now. | Amit| Pending |Jan 25|
+|Embed Facebook Feed | Check the feasibility of IGSATAMU or TAMU official page feeds to embed below the home background image, see how does it look | Aditya| Pending |TBD|
+|Check 'Join IGSA' link form hosting/storage | | Akshat| Pending |TBD|
 |~~HTTP/HTTPS redirection issue~~ | URL redirection issue | Akshat| Completed |Feb 1|
 |~~HTTP to HTTPS migration~~ | | Shubham, Akshat| Completed|
 |~~Update Team Pictures~~| | Amit | Completed |
