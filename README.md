@@ -8,12 +8,12 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 |---- |:-----|:-----:|------|-----|
 |Embed Facebook Feed | Check the feasibility of IGSATAMU or TAMU official page feeds to embed below the home background image, see how does it look | Aditya| In Progress |TBD|
 |Check 'Join IGSA' link form hosting/storage | | Akshat| Pending |TBD|
-|Android Application | Avinash to give an idea | Avinash| Pending |March 8|
+|~~Android Application | Avinash to give an idea | Avinash| Pending |March 8~~|
 |Integrate Eventbrite | Arshith to update on the feasibility of 'Buy Tickets' | Arshith, Akshat| In progress |Feb 28|
 |Develop Current Student Pages | Mentoring to start preparing documents/slides to update | Amit| Pending |TBD|
 |~~Switch VPs in team info~~| Switch Rutika to Editorial from PR and Arushi to PR from editorial| Aditya| Completed|
-|~~Image Updates ~~| Put few images of last Diwali in the gallery in Festivals section | Amit| Completed |Jan 25 |
-|~~Social media icon enhancement ~~| Figure out a way to make the social media icons look bigger than they are right now. Either put kind of banner below the background image or put the icons in a larger size under where it is written ‘IGSA Scholarship’ right now. | Aditya|Completed|
+|~~Image Updates~~| Put few images of last Diwali in the gallery in Festivals section | Amit| Completed |Jan 25 |
+|Social media icon enhancement| Remove the unordered listing, make sure the icons appear exactly in the center of the view, use normal img and achor tags and use the css to position it accurately.| Aditya|March 1|
 |~~HTTP/HTTPS redirection issue~~ | URL redirection issue | Akshat| Completed |Feb 1|
 |~~HTTP to HTTPS migration~~ | | Shubham, Akshat| Completed|
 |~~Update Team Pictures~~| | Amit | Completed |
