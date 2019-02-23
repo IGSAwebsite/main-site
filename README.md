@@ -6,7 +6,8 @@ Designed to keep up with the latest buzz created by IGSA on social media and to 
 
 |Task |Description/Comments |Owners| Status|Deadline |
 |---- |:-----|:-----:|------|-----|
-|Embed Facebook Feed | Check the feasibility of IGSATAMU or TAMU official page feeds to embed below the home background image, see how does it look | Aditya| In Progress |March 8|
+|Fix tabs in current students page | Fix the tabs which were not working, as discussed in meeting| Aditya| Pending |March 1|
+|Embed Facebook Feed | Check the feasibility of IGSATAMU or TAMU official page feeds to embed below the home background image, see how does it look | Amit| In Progress |March 8|
 |Social media icon enhancement| Remove the unordered listing, make sure the icons appear exactly in the center of the view, use normal img and achor tags and use the css to position it accurately.| Aditya| In Progress |March 1|
 |Check housing link | Collaborate with Marketing team| Akshat| Pending |March 1|
 |Check 'Join IGSA' link form hosting/storage | | Akshat| Pending |March 1|
