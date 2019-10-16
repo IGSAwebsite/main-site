@@ -73,7 +73,7 @@ var team_details = {
 		}
 	},
 	editorial: {
-		team_count : 6,
+		team_count : 7 ,
 		team_name : 'Editorial',
 		teamMember1:{
 		  name : 'Namitha',
@@ -105,6 +105,11 @@ var team_details = {
 		  name : 'Prabhasa',
 		  position :'Director',
 		  picture_path: 'img/team_images/Editorial/2018/Prabhasa Kalkur_Director_Editorial.jpg'
+		},
+		teamMember7:{
+		  name : 'Nandita Chaturvedi',
+		  position :'Director',
+		  picture_path: 'img/team_images/Editorial/2019/Nandita Chaturvedi_Director_Editorial.PNG'
 		}
 	},
 	events: {
