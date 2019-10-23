@@ -5,37 +5,27 @@
 */
 var team_details = {
 	IT: {
-		team_count : 6,
+		team_count : 4,
 		team_name : 'Information Technology',
 		teamMember1:{
-			name : 'Akshat Verma',
-			position :'Vice-President',
-			picture_path: 'img/team_images/IT/Akshat Verma-Director-IT.JPG'
-		},
-		teamMember2:{
-			name : 'Shubham Sarwate',
-			position :'Vice-President',
-			picture_path: 'img/team_images/IT/Shubham Sarwate.jpg'
-		},
-		teamMember3:{
 			name : 'Amit Yadav',
-			position :'Director',
+			position :'Vice-President',
 			picture_path: 'img/team_images/IT/Amit-Yadav.jpg'
 		},
-		teamMember4:{
-			name : 'Avinash Paliwal',
+		teamMember2:{
+			name : 'Balajee Venkataraman',
 			position :'Director',
-			picture_path: 'img/team_images/IT/Avinash-Paliwal.jpg'
+			picture_path: 'img/team_images/IT/2019/PP BVR - Balajee Venkataraman.jpg'
 		},
-		teamMember5:{
-			name : 'Arshit Dev',
+		teamMember3:{
+			name : 'Shweta Airan',
 			position :'Director',
-			picture_path: 'img/team_images/IT/Arshith-Dev.jpg'
+			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
 		},
-		teamMember6:{
-			name : 'Aditya Deshpande',
+		teamMember3:{
+			name : 'Tanvee Bagalkar',
 			position :'Director',
-			picture_path: 'img/team_images/IT/Aditya-Deshpande.jpg'
+			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
 		}
 	},
 	advocacy: {
@@ -172,37 +162,32 @@ var team_details = {
 		}
 	},
 	finance: {
-		team_count : 6,
+		team_count : 5,
 		team_name : 'Finance',
 		teamMember1:{
-			name : 'Saumil Gogri',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Finance/saumil.jpg'
+			name : 'Mahesh Agarwal',
+			position :'President',
+			picture_path: 'img/team_images/Finance/2019/Mahesh Agrawal.jpeg'
 		},
 		teamMember2:{
-			name : 'Keerthi Salecha',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Finance/keerhi.jpg'
+			name : 'Darpit Dave',
+			position :'Senior Director',
+			picture_path: 'img/team_images/Finance/2019/Darpit Dave.jpg'
 		},
 		teamMember3:{
-			name : 'Mahesh Agarwal',
-			position :'Senior Director',
-			picture_path: 'img/team_images/Finance/Mahesh-agarwal.jpg'
+			name : 'Arun Kumar Karngala',
+			position :'Director',
+			picture_path: 'img/team_images/Finance/2019/Arun Kumar Karngala.jpg'
 		},
 		teamMember4:{
-			name : 'Ameya Deshpande',
+			name : 'Kulinkumar Dave',
 			position :'Director',
-			picture_path: 'img/team_images/Finance/Ameya-Deshpande.jpg'
+			picture_path: 'img/team_images/Finance/2019/Kulinkumar Dave.jpg'
 		},
 		teamMember5:{
-			name : 'Jay Shah',
+			name : 'Soham Shyamsunder Sarda',
 			position :'Director',
-			picture_path: 'img/team_images/Finance/Jay-shah.jpg'
-		},
-		teamMember6:{
-			name : 'Parth Bhandakkar',
-			position :'Director',
-			picture_path: 'img/team_images/Finance/Parth-Bhandakkar.jpg'
+			picture_path: 'img/team_images/Finance/2019/Soham Shyamsunder Sarda.jpg'
 		}
 	},
 	mentoring: {
@@ -245,76 +230,46 @@ var team_details = {
 		}
 	},
 	marketing: {
-		team_count : 8,
+		team_count : 5,
 		team_name : 'Marketing',
 		teamMember1:{
-		  name : 'Arnav Kundu',
+		  name : 'Rupak Ghawghawe',
 		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/2018/Arnav_Kundu_VP_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2019/Rupak Ghawghawe.jpeg'
 		},
 		teamMember2:{
-		  name : 'Siddarth Biyani',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/2018/Siddarth_Biyani_VP_Marketing.jpg'
+		  name : 'Jash Kiran Thakkar',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/2019/Jash Kiran Thakkar.jpg'
 		},
 		teamMember3:{
-		  name : 'Saksham Gupta',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Marketing/2018/Saksham_Gupta_VP_Marketing.JPG'
+		  name : 'Mudit Shukla',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/2019/Mudit Shukla.JPG'
 		},
 		teamMember4:{
-		  name : 'Sambandh Dhal',
+		  name : 'Smit Rakeshkumar Chadha',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/2018/Sambandh_Dhal_Director_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2019/Smit Rakeshkumar Chadha.jpeg'
 		},
 		teamMember5:{
-		  name : 'Chetan Joshi',
+		  name : 'Vanshika Varshney',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/2018/Chetan Joshi_Director_Marketing.jpg'
-		},
-		teamMember6:{
-		    name : 'Jayshil Patel',
-		    position :'Director',
-		    picture_path: 'img/team_images/Marketing/2018/Jayshil_Patel_Director_Marketing.jpg'
-		},
-		teamMember7:{
-		    name : 'Rupak Ghawghawe',
-		    position :'Director',
-		    picture_path: 'img/team_images/Marketing/2018/Rupak_Ghawghawe_Director_Marketing.jpg'
-		},
-		teamMember8:{
-		  name : 'Shikhar Chandra',
-		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/2018/Shikhar_Chandra_Director_Marketing.jpg'
+		  picture_path: 'img/team_images/Marketing/2019/Vanshika Varshney.jpg'
 		}
 	},
 	networking: {
-		team_count : 5,
+		team_count : 2,
 		team_name : 'Networking',
 		teamMember1:{
-		  name : 'Anjali Budhani',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Networking/2018/Anjali Budhani_VP_Networking.JPG'
+		  name : 'Ishan Kumar',
+		  position :'Director',
+		  picture_path: 'img/team_images/Networking/2019/Ishan Kumar.JPG'
 		},
 		teamMember2:{
-		  name : 'Shyam Sundar',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Networking/2018/Shyam Sundar_VP_Networking.jpeg'
-		},
-		teamMember3:{
-		  name : 'Ashwin Vadlamani',
+		  name : 'Smit Prashant Mehta',
 		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2018/Ashwin Vadlamani_Director_Networking.JPG'
-		},
-		teamMember4:{
-		  name : 'Rohan Agrawal',
-		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2018/Rohan Agrawal_Director_Networking.png'
-		},
-		teamMember5:{
-		  name : 'Sai Praneet',
-		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2018/Sai Praneet Toram_Director_Networking.jpg'
+		  picture_path: 'img/team_images/Networking/2019/Smit Prashant Mehta.jpg'
 		}
 	},
 	pr: {
