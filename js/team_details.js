@@ -15,14 +15,14 @@ var team_details = {
 		teamMember2:{
 			name : 'Balajee Venkataraman',
 			position :'Director',
-			picture_path: 'img/team_images/IT/2019/PP BVR - Balajee Venkataraman.jpg'
+			picture_path: 'img/team_images/IT/2019/PP BVR - Balajee Venkataraman.JPG'
 		},
 		teamMember3:{
 			name : 'Shweta Airan',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 			name : 'Tanvee Bagalkar',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
@@ -177,7 +177,7 @@ var team_details = {
 		teamMember3:{
 			name : 'Arun Kumar Karngala',
 			position :'Director',
-			picture_path: 'img/team_images/Finance/2019/Arun Kumar Karngala.jpg'
+			picture_path: 'img/team_images/Finance/2019/Arun Kumar Karngala.png'
 		},
 		teamMember4:{
 			name : 'Kulinkumar Dave',
@@ -245,7 +245,7 @@ var team_details = {
 		teamMember3:{
 		  name : 'Mudit Shukla',
 		  position :'Director',
-		  picture_path: 'img/team_images/Marketing/2019/Mudit Shukla.JPG'
+		  picture_path: 'img/team_images/Marketing/2019/Mudit Shukla.jpeg'
 		},
 		teamMember4:{
 		  name : 'Smit Rakeshkumar Chadha',
@@ -264,7 +264,7 @@ var team_details = {
 		teamMember1:{
 		  name : 'Ishan Kumar',
 		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2019/Ishan Kumar.JPG'
+		  picture_path: 'img/team_images/Networking/2019/Ishan Kumar.jpg'
 		},
 		teamMember2:{
 		  name : 'Smit Prashant Mehta',
