@@ -5,7 +5,7 @@
 */
 var team_details = {
 	IT: {
-		team_count : 4,
+		team_count : 3,
 		team_name : 'Information Technology',
 		teamMember1:{
 			name : 'Amit Yadav',
@@ -21,12 +21,13 @@ var team_details = {
 			name : 'Shweta Airan',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
-		},
+		}
+		/*,
 		teamMember4:{
 			name : 'Tanvee Bagalkar',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
-		}
+		}*/
 	},
 	advocacy: {
 		team_count : 6,
