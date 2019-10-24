@@ -159,7 +159,7 @@ var team_details = {
 		teamMember11:{
 			name : 'Shrikesh Sheshaprasad',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2019/Shrikesh Sheshaprasad.jpg'
+			picture_path: 'img/team_images/Events/2019/Shrikesh Sheshaprasad.JPG'
 		},
 		teamMember12:{
 			name : 'Shruti Anand',
