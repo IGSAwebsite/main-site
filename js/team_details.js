@@ -5,7 +5,7 @@
 */
 var team_details = {
 	IT: {
-		team_count : 3,
+		team_count : 4,
 		team_name : 'Information Technology',
 		teamMember1:{
 			name : 'Amit Yadav',
@@ -21,83 +21,75 @@ var team_details = {
 			name : 'Shweta Airan',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
-		}
-		/*,
+		},
 		teamMember4:{
 			name : 'Tanvee Bagalkar',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
-		}*/
+		}
 	},
 	advocacy: {
-		team_count : 6,
+		team_count : 7,
 		team_name : 'Advocacy',
 		teamMember1:{
-			name : 'Anoop Tiwari',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/2018/Anoop_Tiwari_VP_Advocacy.jpeg'
+			name : 'Ankur Kumar',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Ankur Kumar.jpeg'
 		},
 		teamMember2:{
-			name : 'Ali Akbar Shafi',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/2018/Ali_AKbar_Shafi_VP_Advocacy.jpeg'
+			name : 'Keerthan Bantwal',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Keerthan Bantwal.jpg'
 		},
 		teamMember3:{
-			name : 'Akhil Ravendran',
-			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Akhil_Ravendran_Director_Advocacy.jpg'
+			name : 'Pallavi Kumari',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Pallavi Kumari.jpeg'
 		},
 		teamMember4:{
-			name : 'Ankur Kumar',
+			name : 'Adithiyaraaj Shankaranaryanan',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Ankur Kumar_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Adhithiyaraj Sankaranarayanan.jpg'
 		},
 		teamMember5:{
-			name : 'Keerthan Bantwal',
+			name : 'Rahul Raman',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Keerthan_Bantwal_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Rahul Raman.jpg'
 		},
 		teamMember6:{
-			name : 'Nandhu Pillay',
+			name : 'Rohit Dube',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Nandhu Pillay_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Rohit Dube.png'
+		},
+		teamMember7:{
+			name : 'Saloni Thakkar',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2019/Saloni Kamesh Thakkar.jpg'
 		}
 	},
 	editorial: {
-		team_count : 7 ,
-		team_name : 'Editorial',
+		team_count : 5 ,
 		teamMember1:{
-		  name : 'Namitha',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Editorial/2018/Namitha Sreenatha_VP_Editorial.jpg'
-		},
-		teamMember2:{
-		  name : 'Rutika Nanivadekar',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Editorial/2018/Rutika-Nanivadekar.jpg'
-		},
-		teamMember3:{
-		  name : 'Aishwarya',
-		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Aishwarya Manjunatha_Director_Editorial.JPG'
-		},
-		teamMember4:{
-		  name : 'Debopamaa',
-		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Debopamaa Debnath_Director_Editorial.jpg'
-
-		},
-		teamMember5:{
-		  name : 'Harshit',
-		  position :'Director',
+		  name : 'Harshit Gupta',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Editorial/2018/Harshit Gupta_Director_Editorial.JPG'
 		},
-		teamMember6:{
-		  name : 'Prabhasa',
+		teamMember2:{
+		  name : 'Haard Naik',
 		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Prabhasa Kalkur_Director_Editorial.jpg'
+		  picture_path: 'img/team_images/Editorial/2019/Haard Jasmin Naik.jpg'
 		},
-		teamMember7:{
+		teamMember3:{
+			name : 'Kanal Pathak',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2019/Kanal Kalpeshkumar Pathak.JPG'
+		},
+		teamMember4:{
+			name : 'Ritwik Kulkarni',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2019/Ritwik Kulkarni.jpg'
+		},
+		teamMember5:{
 		  name : 'Nandita Chaturvedi',
 		  position :'Director',
 		  picture_path: 'img/team_images/Editorial/2019/Nandita Chaturvedi_Director_Editorial.PNG'
