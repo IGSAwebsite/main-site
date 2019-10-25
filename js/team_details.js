@@ -168,9 +168,9 @@ var team_details = {
 		team_count : 5,
 		team_name : 'Finance',
 		teamMember1:{
-			name : 'Mahesh Agarwal',
-			position :'President',
-			picture_path: 'img/team_images/Finance/2019/Mahesh Agrawal.jpeg'
+			name : 'Parth Bhandakkar',
+			position :'Vice President',
+			picture_path: 'img/team_images/Finance/Parth-Bhandakkar.jpg'
 		},
 		teamMember2:{
 			name : 'Darpit Dave',
@@ -223,7 +223,7 @@ var team_details = {
 		}
 	},
 	marketing: {
-		team_count : 5,
+		team_count : 6,
 		team_name : 'Marketing',
 		teamMember1:{
 		  name : 'Rupak Ghawghawe',
@@ -231,21 +231,26 @@ var team_details = {
 		  picture_path: 'img/team_images/Marketing/2019/Rupak Ghawghawe.jpeg'
 		},
 		teamMember2:{
+			name : 'Shikhar Chandra',
+			position :'Vice-President',
+			picture_path: 'img/team_images/Marketing/2018/Shikhar_Chandra_Director_Marketing.jpg'
+		},
+		teamMember3:{
 		  name : 'Jash Kiran Thakkar',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Jash Kiran Thakkar.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 		  name : 'Mudit Shukla',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Mudit Shukla.jpeg'
 		},
-		teamMember4:{
+		teamMember5:{
 		  name : 'Smit Rakeshkumar Chadha',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Smit Rakeshkumar Chadha.jpeg'
 		},
-		teamMember5:{
+		teamMember6:{
 		  name : 'Vanshika Varshney',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Vanshika Varshney.jpg'
@@ -276,7 +281,7 @@ var team_details = {
 		}
 	},
 	pr: {
-		team_count : 5,
+		team_count : 6,
 		team_name : 'Public Relations',
 		teamMember1:{
 			name : 'Arushi Patro',
@@ -289,16 +294,21 @@ var team_details = {
 			picture_path: 'img/team_images/Mentoring/2018/Sakina Mohammed Mota_Senior Director_Mentoring.jpg'
 		},
 		teamMember3:{
+			name : 'Shilpa Chanshetti',
+			position :'Senior Director',
+			picture_path: 'img/team_images/PR/Shilpa-Chansheti.jpg'
+		},
+		teamMember4:{
 			name : 'Vrushali Kothasthane',
 			position :'Vice President',
 			picture_path: 'img/team_images/PR/Vrushali-Kotasthane.jpg'
 		},
-		teamMember4:{
+		teamMember5:{
 			name : 'Pavan Kulkarni',
 			position :'Director',
 			picture_path: 'img/team_images/PR/2019/Pavan Govind Kulkarni.jpg'
 		},
-		teamMember5:{
+		teamMember6:{
 			name : 'Shri Lahari Puligedda',
 			position :'Director',
 			picture_path: 'img/team_images/PR/2019/Sri Lahari Puligedda.jpg'
