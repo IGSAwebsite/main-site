@@ -139,7 +139,7 @@ var team_details = {
 			picture_path: 'img/team_images/Events/2019/Naga Abhilash Chadaram.jpg'
 		},
 		teamMember9:{
-			name : 'Ratnaprabhas Borkar',
+			name : 'Ratnaprabha Borkar',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2019/Ratnaprabha Mangesh Borkar.jpg'
 		},
@@ -194,42 +194,32 @@ var team_details = {
 		}
 	},
 	mentoring: {
-		team_count : 7,
+		team_count : 5,
 		team_name : 'Mentoring',
 		teamMember1:{
-		  name : 'Shreedevi',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Mentoring/2018/shreedevi_VP_Mentoring.JPG'
+		  name : 'Prabhasa Kalkur',
+		  position :'Vice President',
+		  picture_path: 'img/team_images/Mentoring/2019/Prabhasa Kalkur.jpg'
 		},
 		teamMember2:{
-		  name : 'Nimish Ojale',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Mentoring/2018/Nimish Ojale_Mentoring_VP.jpg'
-		},
-		teamMember3:{
-		  name : 'Abhishek Nayak',
-		  position :'Senior Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Abhishek Nayak_Senior Director_Mentoring.jpg'
-		},
-		teamMember4:{
 		  name : 'Sayali Belsare',
-		  position :'Senior Director',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Mentoring/2018/Sayali_Belsare_SrDirector-Mentoring.JPG'
 		},
-		teamMember5:{
-		  name : 'Sakina Mota',
+		teamMember3:{
+		  name : 'Soham Kulkarni',
 		  position :'Senior Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Sakina Mohammed Mota_Senior Director_Mentoring.jpg'
+		  picture_path: 'img/team_images/Mentoring/2019/Soham Kulkarni.png'
 		},
-		teamMember6:{
-		  name : 'Pratima Purohit',
+		teamMember4:{
+		  name : 'Jay Shah',
 		  position :'Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Pratima Purohit_Director_Mentoring.jpg'
+		  picture_path: 'img/team_images/Mentoring/2019/Jay Abhinandan Shah.jpg'
 		},
-		teamMember7:{
-		  name : 'Divya Manoj Jain',
+		teamMember5:{
+		  name : 'Soham Deshpande',
 		  position :'Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Divya Manoj Jain_Director_Mentoring.jpeg'
+		  picture_path: 'img/team_images/Mentoring/2019/Soham Milind Deshpande.jpeg'
 		}
 	},
 	marketing: {
@@ -277,7 +267,7 @@ var team_details = {
 		teamMember3:{
 			name : 'Ishan Kumar',
 			position :'Director',
-			picture_path: 'img/team_images/Networking/2019/Ishan Kumar.jpg'
+			picture_path: 'img/team_images/Networking/2019/Ishan_Kumar.jpg'
 		},
 		teamMember4:{
 		  name : 'Smit Prashant Mehta',
