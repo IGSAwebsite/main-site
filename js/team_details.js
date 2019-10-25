@@ -262,14 +262,24 @@ var team_details = {
 		}
 	},
 	networking: {
-		team_count : 2,
+		team_count : 4,
 		team_name : 'Networking',
 		teamMember1:{
-		  name : 'Ishan Kumar',
-		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2019/Ishan Kumar.jpg'
+		  name : 'Shreedevi Arunkumar',
+		  position :'Vice President',
+		  picture_path: 'img/team_images/Mentoring/2018/shreedevi_VP_Mentoring.JPG'
 		},
 		teamMember2:{
+			name : 'Shyam Balasbramaniam',
+			position :'Vice President',
+			picture_path: 'img/team_images/Networking/2018/Shyam Sundar_VP_Networking.jpeg'
+		},
+		teamMember3:{
+			name : 'Ishan Kumar',
+			position :'Director',
+			picture_path: 'img/team_images/Networking/2019/Ishan Kumar.jpg'
+		},
+		teamMember4:{
 		  name : 'Smit Prashant Mehta',
 		  position :'Director',
 		  picture_path: 'img/team_images/Networking/2019/Smit Prashant Mehta.jpg'
@@ -344,54 +354,59 @@ var team_details = {
 		}
 	},
 	president: {
-		team_count : 10,
+		team_count : 11,
 		team_name : 'Our Presidents',
 		teamMember1:{
-			name : 'Ronak Mohanty',
+			name : 'Mahesh Agrawal',
 			position :'President',
-			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
+			picture_path: 'img/team_images/Finance/2019/Mahesh Agrawal.jpeg'
 		},
 		teamMember2:{
+			name : 'Ronak Mohanty',
+			position :'President (2018-19)',
+			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
+		},
+		teamMember3:{
 			name : 'Pranati Gompa',
 			position :'President (2017-18)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/editorial_pranathi_7.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 			name : 'Utkarsh Pandey',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/utkarsh_pandey.jpg'
 		},
-		teamMember4:{
+		teamMember5:{
 			name : 'Aritra Biswas',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/mentoring_aritra_1.jpg'
 		},
-		teamMember5:{
+		teamMember6:{
 			name : 'Sudhanshu Deshpandey',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/event_sudanshu_6.jpg'
 		},
-		teamMember6:{
+		teamMember7:{
 			name : 'Krupal Bhatt',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/krupal_bhatt.jpg'
 		},
-		teamMember7:{
+		teamMember8:{
 			name : 'Arjun Shanker',
 			position :'President (2014-15)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/arjun_shanker.jpg'
 		},
-		teamMember8:{
+		teamMember9:{
 			name : 'Rohit Kongari',
 			position :'President (2013-14)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_rohit_3.jpg'
 		},
-		teamMember9:{
+		teamMember10:{
 			name : 'Rohan Shirodkar',
 			position :'President (2012-13)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/rohan_shirodkar.jpg'
 		},
-		teamMember10:{
+		teamMember11:{
 			name : 'Anuj Choudhary',
 			position :'President (2010-12)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_anuj_2.jpg'
