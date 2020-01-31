@@ -5,7 +5,7 @@
 */
 var team_details = {
 	IT: {
-		team_count : 3,
+		team_count : 4,
 		team_name : 'Information Technology',
 		teamMember1:{
 			name : 'Amit Yadav',
@@ -21,154 +21,156 @@ var team_details = {
 			name : 'Shweta Airan',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
-		}
-		/*,
+		},
 		teamMember4:{
 			name : 'Tanvee Bagalkar',
 			position :'Director',
 			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
-		}*/
+		}
 	},
 	advocacy: {
-		team_count : 6,
+		team_count : 7,
 		team_name : 'Advocacy',
 		teamMember1:{
-			name : 'Anoop Tiwari',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/2018/Anoop_Tiwari_VP_Advocacy.jpeg'
+			name : 'Ankur Kumar',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Ankur Kumar.jpeg'
 		},
 		teamMember2:{
-			name : 'Ali Akbar Shafi',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Advocacy/2018/Ali_AKbar_Shafi_VP_Advocacy.jpeg'
+			name : 'Keerthan Bantwal',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Keerthan Bantwal.jpg'
 		},
 		teamMember3:{
-			name : 'Akhil Ravendran',
-			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Akhil_Ravendran_Director_Advocacy.jpg'
+			name : 'Pallavi Kumari',
+			position :'Vice President',
+			picture_path: 'img/team_images/Advocacy/2019/Pallavi Kumari.jpeg'
 		},
 		teamMember4:{
-			name : 'Ankur Kumar',
+			name : 'Adithiyaraaj Shankaranaryanan',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Ankur Kumar_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Adhithiyaraj Sankaranarayanan.jpg'
 		},
 		teamMember5:{
-			name : 'Keerthan Bantwal',
+			name : 'Rahul Raman',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Keerthan_Bantwal_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Rahul Raman.jpg'
 		},
 		teamMember6:{
-			name : 'Nandhu Pillay',
+			name : 'Rohit Dube',
 			position :'Director',
-			picture_path: 'img/team_images/Advocacy/2018/Nandhu Pillay_Director_Advocacy.jpg'
+			picture_path: 'img/team_images/Advocacy/2019/Rohit Dube.png'
+		},
+		teamMember7:{
+			name : 'Saloni Thakkar',
+			position :'Director',
+			picture_path: 'img/team_images/Advocacy/2019/Saloni Kamesh Thakkar.jpg'
 		}
 	},
 	editorial: {
-		team_count : 7 ,
-		team_name : 'Editorial',
+		team_count : 5 ,
 		teamMember1:{
-		  name : 'Namitha',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Editorial/2018/Namitha Sreenatha_VP_Editorial.jpg'
-		},
-		teamMember2:{
-		  name : 'Rutika Nanivadekar',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Editorial/2018/Rutika-Nanivadekar.jpg'
-		},
-		teamMember3:{
-		  name : 'Aishwarya',
-		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Aishwarya Manjunatha_Director_Editorial.JPG'
-		},
-		teamMember4:{
-		  name : 'Debopamaa',
-		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Debopamaa Debnath_Director_Editorial.jpg'
-
-		},
-		teamMember5:{
-		  name : 'Harshit',
-		  position :'Director',
+		  name : 'Harshit Gupta',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Editorial/2018/Harshit Gupta_Director_Editorial.JPG'
 		},
-		teamMember6:{
-		  name : 'Prabhasa',
+		teamMember2:{
+		  name : 'Haard Naik',
 		  position :'Director',
-		  picture_path: 'img/team_images/Editorial/2018/Prabhasa Kalkur_Director_Editorial.jpg'
+		  picture_path: 'img/team_images/Editorial/2019/Haard Jasmin Naik.jpg'
 		},
-		teamMember7:{
+		teamMember3:{
+			name : 'Kanal Pathak',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2019/Kanal Kalpeshkumar Pathak.JPG'
+		},
+		teamMember4:{
+			name : 'Ritwik Kulkarni',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2019/Ritwik Kulkarni.jpg'
+		},
+		teamMember5:{
 		  name : 'Nandita Chaturvedi',
 		  position :'Director',
 		  picture_path: 'img/team_images/Editorial/2019/Nandita Chaturvedi_Director_Editorial.PNG'
 		}
 	},
 	events: {
-		team_count : 11,
+		team_count : 13,
 		team_name : 'Events Planning',
 		teamMember1:{
-			name : 'Arjun Parameswaran',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Events/Arjun Parameswaran_Events_Director.jpg'
-		},
-		teamMember2:{
-			name : 'Biswajeet Mohapatra',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Events/2018/Biswajeet_Vice- President_Events.jpg'
-		},
-		teamMember3:{
-			name : 'Jobin George Mathew',
-			position :'Vice-President',
-			picture_path: 'img/team_images/Events/JobinGeorgeMathew_Events_Director.jpeg'
-		},
-		teamMember4:{
-			name : 'Pallavi Kumari',
-			position :'Senior Director',
-			picture_path: 'img/team_images/Events/2018/Pallavi_Kumari_Sr. Director_Events.jpeg'
-		},
-		teamMember5:{
 			name : 'Arch Desai',
-			position :'Director',
+			position :'Vice President',
 			picture_path: 'img/team_images/Events/2018/Arch_Desai_Director_Events.jpg'
 		},
-		teamMember6:{
-			name : 'Chaitanya Areti',
+		teamMember2:{
+			name : 'Jay Shah',
+			position :'Vice President',
+			picture_path: 'img/team_images/Finance/Jay-shah.jpg'
+		},
+		teamMember3:{
+			name : 'Jayshil Patel',
+			position :'Vice President',
+			picture_path: 'img/team_images/Marketing/2018/Jayshil_Patel_Director_Marketing.jpg'
+		},
+		teamMember4:{
+			name : 'Sambandh Dhal',
+			position :'Vice President',
+			picture_path: 'img/team_images/Events/2019/Sambandh Dhal.jpg'
+		},
+		teamMember5:{
+			name : 'Dhiraj Kumar Saraogi',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/ChaitanyaAreti_Director_Events.png'
+			picture_path: 'img/team_images/Events/2019/Dhiraj Kumar Sunil Kumar Saraogi.jpg'
+		},
+		teamMember6:{
+			name : 'Kailash Arole',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2019/Kailash Dhondiram Arole.jpeg'
 		},
 		teamMember7:{
-			name : 'Dhruvil Shah',
+			name : 'Madavan Raja Vishwanath',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/Dhruvil Shah__Director_Events.jpg'
+			picture_path: 'img/team_images/Events/2019/Madavan Raja Viswanath.jpg'
 		},
 		teamMember8:{
-			name : 'Naman Soni',
+			name : 'Naga Abhilash Chadaram',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/Naman Soni_Director_Events.jpg'
+			picture_path: 'img/team_images/Events/2019/Naga Abhilash Chadaram.jpg'
 		},
 		teamMember9:{
-			name : 'Pallavi Tiwari',
+			name : 'Ratnaprabha Borkar',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/PallaviTiwari_Director_Events.jpg'
+			picture_path: 'img/team_images/Events/2019/Ratnaprabha Mangesh Borkar.jpg'
 		},
 		teamMember10:{
-			name : 'Shagun Shukla',
+			name : 'Ritika Khandelwal',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/ShagunShukla_Director_Events.jpg'
+			picture_path: 'img/team_images/Events/2019/Ritika Khandelwal.jpg'
 		},
 		teamMember11:{
-			name : 'Varun Kamal Nigam',
+			name : 'Shrikesh Sheshaprasad',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2018/Varun Kamal Nigam_Director_Events.jpg'
+			picture_path: 'img/team_images/Events/2019/Shrikesh Sheshaprasad.JPG'
+		},
+		teamMember12:{
+			name : 'Shruti Anand',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2019/Shruti Anand.jpg'
+		},
+		teamMember13:{
+			name : 'Vidya Vijayakumar',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2019/Vidya Vijayakumar.jpg'
 		}
 	},
 	finance: {
 		team_count : 5,
 		team_name : 'Finance',
 		teamMember1:{
-			name : 'Mahesh Agarwal',
-			position :'President',
-			picture_path: 'img/team_images/Finance/2019/Mahesh Agrawal.jpeg'
+			name : 'Parth Bhandakkar',
+			position :'Vice President',
+			picture_path: 'img/team_images/Finance/Parth-Bhandakkar.jpg'
 		},
 		teamMember2:{
 			name : 'Darpit Dave',
@@ -192,46 +194,36 @@ var team_details = {
 		}
 	},
 	mentoring: {
-		team_count : 7,
+		team_count : 5,
 		team_name : 'Mentoring',
 		teamMember1:{
-		  name : 'Shreedevi',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Mentoring/2018/shreedevi_VP_Mentoring.JPG'
+		  name : 'Prabhasa Kalkur',
+		  position :'Vice President',
+		  picture_path: 'img/team_images/Mentoring/2019/Prabhasa Kalkur.jpg'
 		},
 		teamMember2:{
-		  name : 'Nimish Ojale',
-		  position :'Vice-President',
-		  picture_path: 'img/team_images/Mentoring/2018/Nimish Ojale_Mentoring_VP.jpg'
-		},
-		teamMember3:{
-		  name : 'Abhishek Nayak',
-		  position :'Senior Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Abhishek Nayak_Senior Director_Mentoring.jpg'
-		},
-		teamMember4:{
 		  name : 'Sayali Belsare',
-		  position :'Senior Director',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Mentoring/2018/Sayali_Belsare_SrDirector-Mentoring.JPG'
 		},
-		teamMember5:{
-		  name : 'Sakina Mota',
+		teamMember3:{
+		  name : 'Soham Kulkarni',
 		  position :'Senior Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Sakina Mohammed Mota_Senior Director_Mentoring.jpg'
+		  picture_path: 'img/team_images/Mentoring/2019/Soham Kulkarni.png'
 		},
-		teamMember6:{
-		  name : 'Pratima Purohit',
+		teamMember4:{
+		  name : 'Jay Shah',
 		  position :'Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Pratima Purohit_Director_Mentoring.jpg'
+		  picture_path: 'img/team_images/Mentoring/2019/Jay Abhinandan Shah.jpg'
 		},
-		teamMember7:{
-		  name : 'Divya Manoj Jain',
+		teamMember5:{
+		  name : 'Soham Deshpande',
 		  position :'Director',
-		  picture_path: 'img/team_images/Mentoring/2018/Divya Manoj Jain_Director_Mentoring.jpeg'
+		  picture_path: 'img/team_images/Mentoring/2019/Soham Milind Deshpande.jpeg'
 		}
 	},
 	marketing: {
-		team_count : 5,
+		team_count : 6,
 		team_name : 'Marketing',
 		teamMember1:{
 		  name : 'Rupak Ghawghawe',
@@ -239,77 +231,87 @@ var team_details = {
 		  picture_path: 'img/team_images/Marketing/2019/Rupak Ghawghawe.jpeg'
 		},
 		teamMember2:{
+			name : 'Shikhar Chandra',
+			position :'Vice-President',
+			picture_path: 'img/team_images/Marketing/2018/Shikhar_Chandra_Director_Marketing.jpg'
+		},
+		teamMember3:{
 		  name : 'Jash Kiran Thakkar',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Jash Kiran Thakkar.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 		  name : 'Mudit Shukla',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Mudit Shukla.jpeg'
 		},
-		teamMember4:{
+		teamMember5:{
 		  name : 'Smit Rakeshkumar Chadha',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Smit Rakeshkumar Chadha.jpeg'
 		},
-		teamMember5:{
+		teamMember6:{
 		  name : 'Vanshika Varshney',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Vanshika Varshney.jpg'
 		}
 	},
 	networking: {
-		team_count : 2,
+		team_count : 4,
 		team_name : 'Networking',
 		teamMember1:{
-		  name : 'Ishan Kumar',
-		  position :'Director',
-		  picture_path: 'img/team_images/Networking/2019/Ishan Kumar.jpg'
+		  name : 'Shreedevi Arunkumar',
+		  position :'Vice President',
+		  picture_path: 'img/team_images/Mentoring/2018/shreedevi_VP_Mentoring.JPG'
 		},
 		teamMember2:{
+			name : 'Shyam Balasbramaniam',
+			position :'Vice President',
+			picture_path: 'img/team_images/Networking/2018/Shyam Sundar_VP_Networking.jpeg'
+		},
+		teamMember3:{
+			name : 'Ishan Kumar',
+			position :'Director',
+			picture_path: 'img/team_images/Networking/2019/Ishan_Kumar.jpg'
+		},
+		teamMember4:{
 		  name : 'Smit Prashant Mehta',
 		  position :'Director',
 		  picture_path: 'img/team_images/Networking/2019/Smit Prashant Mehta.jpg'
 		}
 	},
 	pr: {
-		team_count : 7,
+		team_count : 6,
 		team_name : 'Public Relations',
 		teamMember1:{
-			name : 'Bansi Khajuria',
-			position :'Vice-President',
-			picture_path: 'img/team_images/PR/Bansi Khajuria-Director-PR.jpg'
+			name : 'Arushi Patro',
+			position :'Vice President',
+			picture_path: 'img/team_images/PR/2019/Arushi Patro.jpg'
 		},
 		teamMember2:{
-			name : 'Arushi Patro',
-			position :'Vice-President',
-			picture_path: 'img/team_images/PR/Arushi Patro_VP_PR.jpg'
+			name : 'Sakina Mota',
+			position :'Vice President',
+			picture_path: 'img/team_images/Mentoring/2018/Sakina Mohammed Mota_Senior Director_Mentoring.jpg'
 		},
 		teamMember3:{
-			name : 'Abhinaba Chakrabarti',
-			position :'Senior Director',
-			picture_path: 'img/team_images/PR/abhinanda.jpg'
-		},
-		teamMember4:{
 			name : 'Shilpa Chanshetti',
-			position :'Director',
+			position :'Senior Director',
 			picture_path: 'img/team_images/PR/Shilpa-Chansheti.jpg'
 		},
-		teamMember5:{
-			name : 'Vrushali Kotasthane',
-			position :'Director',
+		teamMember4:{
+			name : 'Vrushali Kothasthane',
+			position :'Vice President',
 			picture_path: 'img/team_images/PR/Vrushali-Kotasthane.jpg'
 		},
-		teamMember6:{
-			name : 'Saahil Batra',
+		teamMember5:{
+			name : 'Pavan Kulkarni',
 			position :'Director',
-			picture_path: 'img/team_images/PR/Sahil-Batra.jpg'
+			picture_path: 'img/team_images/PR/2019/Pavan Govind Kulkarni.jpg'
 		},
-		teamMember7:{
-			name : 'Swarupa Krish',
+		teamMember6:{
+			name : 'Shri Lahari Puligedda',
 			position :'Director',
-			picture_path: 'img/team_images/PR/Swarupa-Krish.jpg'
+			picture_path: 'img/team_images/PR/2019/Sri Lahari Puligedda.jpg'
 		}
 	},
 	advisory: {
@@ -352,54 +354,59 @@ var team_details = {
 		}
 	},
 	president: {
-		team_count : 10,
+		team_count : 11,
 		team_name : 'Our Presidents',
 		teamMember1:{
-			name : 'Ronak Mohanty',
+			name : 'Mahesh Agrawal',
 			position :'President',
-			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
+			picture_path: 'img/team_images/Finance/2019/Mahesh Agrawal.jpeg'
 		},
 		teamMember2:{
+			name : 'Ronak Mohanty',
+			position :'President (2018-19)',
+			picture_path: 'img/team_images/Mentoring/Ronak_Mohanty_VP_Mentoring.jpg'
+		},
+		teamMember3:{
 			name : 'Pranati Gompa',
 			position :'President (2017-18)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/editorial_pranathi_7.jpg'
 		},
-		teamMember3:{
+		teamMember4:{
 			name : 'Utkarsh Pandey',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/utkarsh_pandey.jpg'
 		},
-		teamMember4:{
+		teamMember5:{
 			name : 'Aritra Biswas',
 			position :'President (2016-17)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/mentoring_aritra_1.jpg'
 		},
-		teamMember5:{
+		teamMember6:{
 			name : 'Sudhanshu Deshpandey',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/event_sudanshu_6.jpg'
 		},
-		teamMember6:{
+		teamMember7:{
 			name : 'Krupal Bhatt',
 			position :'President (2015-16)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/krupal_bhatt.jpg'
 		},
-		teamMember7:{
+		teamMember8:{
 			name : 'Arjun Shanker',
 			position :'President (2014-15)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/arjun_shanker.jpg'
 		},
-		teamMember8:{
+		teamMember9:{
 			name : 'Rohit Kongari',
 			position :'President (2013-14)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_rohit_3.jpg'
 		},
-		teamMember9:{
+		teamMember10:{
 			name : 'Rohan Shirodkar',
 			position :'President (2012-13)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/rohan_shirodkar.jpg'
 		},
-		teamMember10:{
+		teamMember11:{
 			name : 'Anuj Choudhary',
 			position :'President (2010-12)',
 			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_anuj_2.jpg'
