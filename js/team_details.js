@@ -321,7 +321,7 @@ var team_details = {
 		teamMember1:{
 			name : 'Anuj Chaudhry',
 			position : 'Founder',
-			picture_path: 'img/team_images/Old Pictures/advisory_anuj_2.jpg'
+			picture_path: 'img/team_images/Old Pictures/Previous Presidents/advisory_anuj_2.jpg'
 		},
 		teamMember2:{
 			name : 'Biren Parmar',
@@ -336,7 +336,7 @@ var team_details = {
 		teamMember4:{
 			name : 'Aritra Biswas',
 			position : 'Advisor, President 2016-2017',
-			picture_path: 'img/team_images/Old Pictures/mentoring_aritra_1.jpg'
+			picture_path: 'img/team_images/Old Pictures/Previous Presidents/mentoring_aritra_1.jpg'
 		},
 		teamMember5:{
 			name : 'Radhika Saraf',
