@@ -69,6 +69,7 @@ var team_details = {
 	},
 	editorial: {
 		team_count : 5 ,
+		team_name : 'Editorial',
 		teamMember1:{
 		  name : 'Harshit Gupta',
 		  position :'Vice President',
