@@ -5,27 +5,17 @@
 */
 var team_details = {
 	IT: {
-		team_count : 4,
+		team_count : 2,
 		team_name : 'Information Technology',
 		teamMember1:{
-			name : 'Amit Yadav',
-			position :'Vice-President',
-			picture_path: 'img/team_images/IT/Amit-Yadav.jpg'
-		},
-		teamMember2:{
 			name : 'Balajee Venkataraman',
-			position :'Director',
+			position :'Vice President',
 			picture_path: 'img/team_images/IT/2019/PP BVR - Balajee Venkataraman.JPG'
 		},
-		teamMember3:{
-			name : 'Shweta Airan',
-			position :'Director',
-			picture_path: 'img/team_images/IT/2019/Shweta Airan.jpg'
-		},
-		teamMember4:{
-			name : 'Tanvee Bagalkar',
-			position :'Director',
-			picture_path: 'img/team_images/IT/2019/Tanvee Bagalkar.jpg'
+		teamMember2:{
+			name : 'Aakash Sachdeva',
+			position :'Senior Director',
+			picture_path: 'img/team_images/IT/2019/Aakash Sachdeva.jpg'
 		}
 	},
 	advocacy: {
