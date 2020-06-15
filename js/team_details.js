@@ -149,7 +149,7 @@ var team_details = {
 		teamMember1:{
 		  name : 'Vrushali Sandeep Kotasthane',
 		  position :'Vice President',
-		  picture_path: 'img/team_images/Mentoring/2020/Vrushali Sandeep Kotasthane.jpg'
+		  picture_path: 'img/team_images/Networking/2020/Vrushali Sandeep Kotasthane.jpg'
 		},
 		teamMember2:{
 			name : 'Shyam Sundar',
