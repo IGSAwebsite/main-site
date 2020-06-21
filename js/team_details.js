@@ -70,7 +70,7 @@ var team_details = {
 			picture_path: 'img/team_images/Events/2019/Sambandh Dhal.jpg'
 		},
 		teamMember2:{
-			name : 'Madavan Raja Vishwanath',
+			name : 'Madavan Raja Viswanath',
 			position :'Vice President',
 			picture_path: 'img/team_images/Events/2019/Madavan Raja Viswanath.jpg'
 		},
