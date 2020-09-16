@@ -106,7 +106,7 @@ var team_details = {
 		}
 	},
 	mentoring: {
-		team_count : 3,
+		team_count : 4,
 		team_name : 'Mentoring',
 		teamMember1:{
 		  name : 'Priyanga Ganesan',
