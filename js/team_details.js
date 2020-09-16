@@ -109,19 +109,24 @@ var team_details = {
 		team_count : 3,
 		team_name : 'Mentoring',
 		teamMember1:{
-		  name : 'Arun Kumar Karngala',
-		  position :'Vice President',
-		  picture_path: 'img/team_images/Mentoring/2019/Arun Kumar Karngala.jpg'
-		},
-		teamMember2:{
 		  name : 'Priyanga Ganesan',
 		  position :'Vice President',
 		  picture_path: 'img/team_images/Mentoring/2019/Priyanga Ganesan.jpg'
 		},
-		teamMember3:{
+		teamMember2:{
 		  name : 'Soham Deshpande',
 		  position :'Senior Director',
 		  picture_path: 'img/team_images/Mentoring/2019/Soham Milind Deshpande.jpg'
+		},
+		teamMember3:{
+		  name : 'Abishek Thilak',
+		  position :'Director',
+		  picture_path: 'img/team_images/Mentoring/2019/Abishek Thilak.jpeg'
+		},
+		teamMember4:{
+		  name : 'Kunal Bhatia',
+		  position :'Director',
+		  picture_path: 'img/team_images/Mentoring/2019/Kunal Bhatia.jpeg'
 		}
 	},
 	marketing: {
