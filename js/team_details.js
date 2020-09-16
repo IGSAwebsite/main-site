@@ -115,7 +115,7 @@ var team_details = {
 		},
 		teamMember2:{
 		  name : 'Priyanga Ganesan',
-		  position :'Senior Director',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Mentoring/2019/Priyanga Ganesan.jpg'
 		},
 		teamMember3:{
