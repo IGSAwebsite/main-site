@@ -59,6 +59,11 @@ var team_details = {
 			name : 'Deeparekha Narayanan',
 			position :'Senior Director',
 			picture_path: 'img/team_images/Editorial/2020/Deeparekha Narayanan.jpg'
+		},
+		teamMember4:{
+			name : 'Revati Kelkar',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2020/Revati Vinay Kelkar.jpg'
 		}
 	},
 	events: {
@@ -89,6 +94,16 @@ var team_details = {
 			name : 'Dhiraj Kumar Saraogi',
 			position :'Director',
 			picture_path: 'img/team_images/Events/2019/Dhiraj Kumar Sunil Kumar Saraogi.jpg'
+		},
+		teamMember6:{
+			name : 'Craig Menezes',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2019/Craig Menezes.jpg'
+		},
+		teamMember7:{
+			name : 'Krishna Rathi',
+			position :'Director',
+			picture_path: 'img/team_images/Events/2019/Krishna Rathi.jpg'
 		}
 	},
 	finance: {
@@ -146,6 +161,11 @@ var team_details = {
 		  name : 'Deep Patel',
 		  position :'Director',
 		  picture_path: 'img/team_images/Marketing/2019/Deep Patel.jpg'
+		},
+		teamMember4:{
+		  name : 'Sanjay Shivanand',
+		  position :'Director',
+		  picture_path: 'img/team_images/Marketing/2019/Sanjay Shivanand.jpg'
 		}
 	},
 	networking: {
@@ -165,6 +185,11 @@ var team_details = {
 			name : 'Pranav Apte',
 			position :'Director',
 			picture_path: 'img/team_images/Networking/2020/Pranav Apte.jpg'
+		},
+		teamMember4:{
+			name : 'Joel Jacob',
+			position :'Director',
+			picture_path: 'img/team_images/Networking/2020/Joel Jacob.png'
 		}
 	},
 	pr: {
@@ -189,6 +214,16 @@ var team_details = {
 			name : 'Shubham Verma',
 			position :'Director',
 			picture_path: 'img/team_images/PR/2020/Shubham Verma.jpg'
+		},
+		teamMember5:{
+			name : 'Sanchit Prabhakar',
+			position :'Director',
+			picture_path: 'img/team_images/PR/2020/Sanchit Prabhakar.jpg'
+		},
+		teamMember6:{
+			name : 'Mohit Khurana',
+			position :'Director',
+			picture_path: 'img/team_images/PR/2020/Mohit Khurana.jpg'
 		}
 	},
 	advisory: {
