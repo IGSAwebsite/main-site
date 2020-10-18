@@ -43,7 +43,7 @@ var team_details = {
 		}
 	},
 	editorial: {
-		team_count : 3 ,
+		team_count : 4 ,
 		team_name : 'Editorial',
 		teamMember1:{
 		  name : 'Shruti Anand',
@@ -67,7 +67,7 @@ var team_details = {
 		}
 	},
 	events: {
-		team_count : 5,
+		team_count : 7,
 		team_name : 'Events Planning',
 		teamMember1:{
 			name : 'Sambandh Dhal',
@@ -145,7 +145,7 @@ var team_details = {
 		}
 	},
 	marketing: {
-		team_count : 3,
+		team_count : 4,
 		team_name : 'Marketing',
 		teamMember1:{
 			name : 'Ratnaprabha Borkar',
@@ -169,7 +169,7 @@ var team_details = {
 		}
 	},
 	networking: {
-		team_count : 3,
+		team_count : 4,
 		team_name : 'Networking',
 		teamMember1:{
 		  name : 'Vrushali Sandeep Kotasthane',
@@ -193,7 +193,7 @@ var team_details = {
 		}
 	},
 	pr: {
-		team_count : 4,
+		team_count : 6,
 		team_name : 'Public Relations',
 		teamMember1:{
 			name : 'Soham Sarda',
