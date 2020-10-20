@@ -43,7 +43,7 @@ var team_details = {
 		}
 	},
 	editorial: {
-		team_count : 4 ,
+		team_count : 5 ,
 		team_name : 'Editorial',
 		teamMember1:{
 		  name : 'Shruti Anand',
@@ -52,7 +52,7 @@ var team_details = {
 		},
 		teamMember2:{
 		  name : 'Naga Abhilash Chadaram',
-		  position :'Senior Director',
+		  position :'Vice President',
 		  picture_path: 'img/team_images/Editorial/2020/Naga Abhilash Chadaram.jpg'
 		},
 		teamMember3:{
@@ -64,6 +64,11 @@ var team_details = {
 			name : 'Revati Kelkar',
 			position :'Director',
 			picture_path: 'img/team_images/Editorial/2020/Revati Vinay Kelkar.jpg'
+		},
+		teamMember5:{
+			name : 'Kinjal Shah',
+			position :'Director',
+			picture_path: 'img/team_images/Editorial/2020/Kinjal Shah.JPG'
 		}
 	},
 	events: {
