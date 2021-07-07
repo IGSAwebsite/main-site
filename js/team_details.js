@@ -291,17 +291,17 @@ var team_details = {
 		teamMember1:{
 			name : 'Anuj Chaudhry',
 			position : 'Founder',
-			picture_path: 'img/team_images/President/advisory_anuj_2.jpg'
+			picture_path: 'img/team_images/Advisors/2021/Anuj Chaudhry.jpg'
 		},
 		teamMember2:{
 			name : 'Biren Parmar',
 			position : 'Founder',
-			picture_path: 'img/team_images/Old Pictures/advisory_biren_1.jpg'
+			picture_path: 'img/team_images/Advisors//2021/Biren Parmar.jpg'
 		},
 		teamMember3:{
 			name : 'Rohit Kongari',
 			position : 'Founder',
-			picture_path: 'img/team_images/Advisors/Rohit Kongari-Student Advisor.JPG'
+			picture_path: 'img/team_images/Advisors/2021/Rohit Kongari.jpg'
 		},
 		teamMember4:{
 			name : 'Ronak Mohanty',
@@ -345,12 +345,12 @@ var team_details = {
 		teamMember4:{
 			name : 'Ronak Mohanty',
 			position :'President (2018-19)',
-			picture_path: 'img/team_images/President/Ronak Mohanty 2018-19.jpg'
+			picture_path: 'img/team_images/President/Ronak Mohanty 2018-19.jpeg'
 		},
 		teamMember5:{
 			name : 'Pranati Gompa',
 			position :'President (2017-18)',
-			picture_path: 'img/team_images/President/Pranati Gompa 2017-18.jpg'
+			picture_path: 'img/team_images/President/Pranathi Gompa 2017-18.jpg'
 		},
 		teamMember6:{
 			name : 'Utkarsh Pandey',
