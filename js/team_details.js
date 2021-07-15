@@ -112,7 +112,7 @@ var team_details = {
 		teamMember4:{
 			name : 'Shrikesh Sheshaprasad',
 			position :'Vice President',
-			picture_path: 'img/team_images/Events/2021/VP - Shrikesh Sheshaprasad.JPG'
+			picture_path: 'img/team_images/Events/2021/VP - Shrikesh Sheshaprasad.jpg'
 		},
 		teamMember5:{
 			name : 'Dhiraj Kumar Saraogi',
@@ -132,12 +132,12 @@ var team_details = {
 		teamMember8:{
 			name : 'Prathiksha RD',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2021/D - Prathiksha RD.jpg'
+			picture_path: 'img/team_images/Events/2021/D - Prathiksha RD.JPG'
 		},
 		teamMember9:{
 			name : 'Sanchali Dutta',
 			position :'Director',
-			picture_path: 'img/team_images/Events/2021/D - Sanchali Dutta.jpg'
+			picture_path: 'img/team_images/Events/2021/D - Sanchali Dutta.JPG'
 		},
 		teamMember10:{
 			name : 'Sanjana Adishesh',
@@ -257,7 +257,7 @@ var team_details = {
 		teamMember3:{
 			name : 'Vaibhav Bijola',
 			position :'Director',
-			picture_path: 'img/team_images/PR/2021/D - Vaibhav Bijola.jpg'
+			picture_path: 'img/team_images/PR/2021/D - Vaibhav Bijola.JPG'
 		},
 		teamMember4:{
 			name : 'Shubham Verma',
