@@ -332,7 +332,7 @@ var team_details = {
 		 teamMember7:{
 		 	name : 'Sanchit Prabhakar',
 		 	position :'Director',
-		 	picture_path: 'img/team_images/PR/2021/Fall/Sanchit Prabhakar.jpg'
+		 	picture_path: 'img/Dummy-Person.png'
 		 }
 		// teamMember8:{
 		// 	name : '1 - TBD',
