@@ -15,12 +15,12 @@ var team_details = {
 		teamMember2:{
 			name : 'Revanth Reddy Male',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/IT/2021/Fall/Revanth Reddy Male.jpeg'
 		},
 		teamMember3:{
 			name : 'Shefali Sarang',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/IT/2021/Fall/Shefali Sarang.jpg'
 		},
 		teamMember4:{
 			name : 'Mahesh Thiagarajan',
@@ -39,7 +39,7 @@ var team_details = {
 		teamMember2:{
 			name : 'Mohit Khurana',
 			position :'Senior Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Advocacy/2021/Fall/Mohit Khurana.jpg'
 		},
 		teamMember3:{
 			name : 'Sabyasashi Gupta',
@@ -83,17 +83,17 @@ var team_details = {
 		teamMember4:{
 			name : 'Dhaval Gohil',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Editorial/2021/Fall/Dhaval Deepak Gohil.jpeg'
 		},
 		teamMember5:{
 			name : 'Revati kelkar',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Editorial/2021/Fall/Revati Vinay Kelkar.jpeg'
 		},
 		teamMember6:{
 			name : 'Sanjana Kunkolienkar',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Editorial/2021/Fall/Sanjana Mahendra Kunkolienkar.jpg'
 		},
 		teamMember7:{
 			name : 'Smriti Singh',
@@ -132,12 +132,12 @@ var team_details = {
 		teamMember6:{
 			name : 'Bhavesh Sharma',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Events/2021//Fall/Bhavesh Hariom Sharma.jpg'
 		},
 		teamMember7:{	
 			name : 'Subrat Kumar Behera',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Events/2021//Fall/Subrat Kumar Behera.jpeg'
 		},
 		teamMember8:{
 			name : 'Swarnabha Roy',
@@ -152,7 +152,7 @@ var team_details = {
 		teamMember10:{
 			name : 'Umesh Ashok Jain',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Events/2021//Fall/Umesh Ashok Jain.jpg'
 		},
 		teamMember11:{
 			name : 'Vineet Alladi',
@@ -181,12 +181,12 @@ var team_details = {
 		teamMember4:{
 			name : 'Nayanika Jaiswal',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Finance/2021/Fall/Nayanika Jaiswal.jpg'
 		},
 		teamMember5:{
 			name : 'Pratik Marathe',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Finance/2021/Fall/Pratik Marathe.jpeg'
 		}
 	},
 	mentoring: {
@@ -234,17 +234,17 @@ var team_details = {
 		teamMember1:{
 			name : 'Madavan Raja Viswanath',
 			position :'Vice President',
-			picture_path: 'img/team_images/Marketing/2021/Fall/Dummy-Person.png'
+			picture_path: 'img/team_images/Marketing/2021/Fall/Madavan Raja Viswanath - VP - Marketing.jpg'
 		},
 		teamMember2:{
 		  name : 'Krishna Rathi',
 		  position :'Senior Director',
-		  picture_path: 'img/Dummy-Person.png'
+		  picture_path: 'img/team_images/Marketing/2021/Fall/Krishna Rathi.jpg'
 		},
 		teamMember3:{
 		  name : 'Sanjay Shivanand',
 		  position :'Senior Director',
-		  picture_path: 'img/Dummy-Person.png'
+		  picture_path: 'img/team_images/Marketing/2021/Fall/Sanjay Shivanand.jpeg'
 		},
 		teamMember4:{
 		  name : 'Prafull Deosarkar',
@@ -259,7 +259,7 @@ var team_details = {
 		teamMember6:{
 		  name : 'Rutul Jani',
 		  position :'Director',
-		  picture_path: 'img/Dummy-Person.png'
+		  picture_path: 'img/team_images/Marketing/2021/Fall/Rutul Jani.JPG'
 		},
 		teamMember7:{
 		  name : 'Sujay Sheth',
@@ -288,7 +288,7 @@ var team_details = {
 		teamMember4:{
 			name : 'Mansi Bansal',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/Networking/2021/Fall/Mansi Bansal.jpeg'
 		},
 		teamMember5:{
 			name : 'Sricharan Raju',
@@ -307,7 +307,7 @@ var team_details = {
 		teamMember2:{
 			name : 'Aditya Singh',
 			position :'Senior Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/PR/2021/Fall/Aditya Singh.jpg'
 		},
 		teamMember3:{
 			name : 'Karmit Shah',
@@ -327,7 +327,7 @@ var team_details = {
 		teamMember6:{
 			name : 'Pratulya Premnath',
 			position :'Director',
-			picture_path: 'img/Dummy-Person.png'
+			picture_path: 'img/team_images/PR/2021/Fall/Pratulya Coona Premnath.jpeg'
 		},
 		 teamMember7:{
 		 	name : 'Sanchit Prabhakar',

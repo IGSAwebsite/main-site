@@ -338,10 +338,17 @@ img.img-circle.team-img {
 
 #clients .item{
     padding: 0;
-    margin: 35px;
+    margin: 0px;
     color: #FFF;
     text-align: center;
 }
+
+#clients{
+  position: relative;
+  top: 30%;
+  left: 30%; 
+}
+
 /* Gallery Section
 ==============================*/
 #tf-works{
