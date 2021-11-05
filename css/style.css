@@ -343,6 +343,15 @@ img.img-circle.team-img {
     text-align: center;
 }
 
+#clients{
+  width: 100%;
+ /* max-width: 300px;  Original width of the logo image */ 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  float: left;
+}
+
 /* Gallery Section
 ==============================*/
 #tf-works{
